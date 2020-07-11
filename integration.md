@@ -2,7 +2,10 @@
 プライベートにライブラリを公開し、npm pluginを使う。
 
 
-# Runtime時の統合
+# サーバーサイド
+
+
+# クライアントサイド
 
 * iframe
 * Web Components

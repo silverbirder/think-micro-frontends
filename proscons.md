@@ -12,6 +12,11 @@
 
 ※ https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35
 
+* フロントエンドのアップグレード/変更にはコストが小さくなる
+* クロステクノロジーチームを超えたクロスファンクショナル
+
+※ https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0
+
 # Cons
 
 * 重複作業の発生
