@@ -7,6 +7,9 @@
 
 ※　https://medium.com/swlh/luigi-micro-fronteds-orchestrator-8c0eca710151
 
+* マイクロフロントエンドには独自のエラー範囲、デバッグ、および別個のコードベースがあるため、コードの保守性と共通コンポーネントの共有が向上します。
+※ https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35
+
 # Cons
 
 * 重複作業の発生
