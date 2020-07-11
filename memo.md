@@ -123,3 +123,12 @@ microfrontends.forEach(mife => {
 ```
 ※ https://gist.github.com/FlorianRappl/ca90ef66944457772d21af6297383485#file-api-data-owner-js
 
+# アプリケーションの分割方法
+
+アプリケーションを分割できる方法は少なくとも4つありました。
+* ビジネス上の懸念または機能ごと。
+* より細かく分割し、ドメインオブジェクトで分割します。
+* アプリケーション内の場所およびUI / UXの問題。
+* チームごとに、焦点を絞った懸念に取り組むチームがいた場合。
+
+※ https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58

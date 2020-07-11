@@ -3,7 +3,7 @@
 * ✅ https://blog.bitsrc.io/communication-between-micro-frontends-67a745c6cfbe
 * ✅️ https://medium.com/swlh/luigi-micro-fronteds-orchestrator-8c0eca710151
 * ✅️ https://medium.com/swlh/micro-frontends-in-action-221d4ed81c35
-* https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58
+* ✅ https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58
 * https://levelup.gitconnected.com/podium-easy-server-side-micro-frontends-385f3a4cd346
 * https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0
 * https://medium.com/javascript-in-plain-english/demystify-micro-frontends-using-component-libraries-53aa9a33cf5b
