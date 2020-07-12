@@ -8,9 +8,8 @@
 * ✅ https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0
 * ✅ https://medium.com/javascript-in-plain-english/demystify-micro-frontends-using-component-libraries-53aa9a33cf5b
 * ✅ https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
-* https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-1-basic-understanding-architectures-21970d3fc218
-* https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-2-run-time-communication-691857882abc
-* https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
+* ✅ https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-1-basic-understanding-architectures-21970d3fc218
+* ✅ https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
 * https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
 * https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
 * https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
