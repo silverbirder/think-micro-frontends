@@ -153,3 +153,8 @@ microfrontends.forEach(mife => {
 マイクロフロントエンドの利点は、プロジェクトがこれらのサイズと複雑さのしきい値に達し始めたときにのみ有効になります。
  
 * https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
+
+# Micro Frontends の最初
+
+https://www.thoughtworks.com/radar/techniques/micro-frontends
+これが期限らしい。

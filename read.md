@@ -10,7 +10,7 @@
 * ✅ https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
 * ✅ https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-1-basic-understanding-architectures-21970d3fc218
 * ✅ https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
-* https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
+* ✅ https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
 * https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
 * https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
 * https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9
@@ -30,9 +30,9 @@
 * https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
 * https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a
 * https://medium.com/swlh/build-micro-frontends-using-angular-elements-the-beginners-guide-75ffeae61b58
-* https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3
+* ✅️ https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3
 * https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
-* https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33
+* ✅️ https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33
 * https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
 * https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795
 * https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257
@@ -137,3 +137,4 @@
 * https://webpack.js.org/concepts/module-federation/
 * https://dzone.com/articles/micro-frontends-a-simple-demo
 * https://bit.dev/
+* https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development

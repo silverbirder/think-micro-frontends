@@ -1,11 +1,26 @@
-# ビルド時の統合
+# 統合
+## ビルド時の統合
 プライベートにライブラリを公開し、npm pluginを使う。
 
+## サーバーサイド
 
-# サーバーサイド
+## Edgeサイド (CDN)
 
-
-# クライアントサイド
+## クライアントサイド
 
 * iframe
 * Web Components
+
+# 分割
+
+水平分割は、画面内にある要素で分割
+垂直分割は、画面毎に分割
+
+※ https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
+
+# Routing
+
+※ https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33
+
+# データ共有
+
