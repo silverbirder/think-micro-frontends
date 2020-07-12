@@ -132,3 +132,24 @@ microfrontends.forEach(mife => {
 * チームごとに、焦点を絞った懸念に取り組むチームがいた場合。
 
 ※ https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58
+
+# Document-Application
+
+![document-application](https://miro.medium.com/max/1224/1*NJMQCgyMShhjYx6dE_pbRw.png)
+
+* マイクロフロントエンドは、かなりのオーバーラップがあるバンドの中央部分の大部分に最も適しています。バンドの両極端に該当するプロジェクトにマイクロフロントエンドアーキテクチャを実装しようとすると、生産性に反することが証明されます。
+
+※ https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
+
+# Routing
+
+ルーティングサービスは、ルートとテンプレート間のマッピング関係を保持し、受信した要求に基づいて、指定されたルートのテンプレートを識別します。
+
+* https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
+
+# 規模感
+
+コンポーネント、ルーティング、およびテンプレートのさまざまな部分を分離し、それらを異なるシステムに委任するプロセス全体が、中小規模のアプリでは不要なオーバーヘッドになる可能性があります。
+マイクロフロントエンドの利点は、プロジェクトがこれらのサイズと複雑さのしきい値に達し始めたときにのみ有効になります。
+ 
+* https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6

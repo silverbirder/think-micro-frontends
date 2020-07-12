@@ -6,9 +6,8 @@
 * ✅ https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58
 * ✅ https://levelup.gitconnected.com/podium-easy-server-side-micro-frontends-385f3a4cd346
 * ✅ https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0
-* https://medium.com/javascript-in-plain-english/demystify-micro-frontends-using-component-libraries-53aa9a33cf5b
-* https://itnext.io/building-vue-enterprise-application-part-3-the-store-dbda0e4bb117
-* https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
+* ✅ https://medium.com/javascript-in-plain-english/demystify-micro-frontends-using-component-libraries-53aa9a33cf5b
+* ✅ https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6
 * https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-1-basic-understanding-architectures-21970d3fc218
 * https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-2-run-time-communication-691857882abc
 * https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
