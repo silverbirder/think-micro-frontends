@@ -33,3 +33,8 @@
 * 共有キャッシュがないと、各Webビューは独自のデータセットをプルダウンする必要があり、大量の重複呼び出しが発生しました。
 
 ※ https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58
+
+* 異なるバージョンの異なるアプリケーションが同じ依存関係を持っています
+
+※　https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
+

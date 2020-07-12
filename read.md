@@ -11,7 +11,7 @@
 * ✅ https://medium.com/@shubhranshutiwari07/micro-frontend-microfe-is-superman-part-1-basic-understanding-architectures-21970d3fc218
 * ✅ https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
 * ✅ https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
-* https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
+* ✅ https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
 * https://medium.com/@sagiv.bengiat/integrate-react-with-other-applications-and-frameworks-94d443e3cc3f
 * https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9
 * https://medium.com/swlh/micro-frontend-using-web-components-e9faacfc101b
