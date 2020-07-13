@@ -4,6 +4,7 @@
 * Spotify
   * iframe ?
     * https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3
+  * Edge Side Includes ?
 * DAZN
 　* Bootstrap ???
     * シンプルなJavascriptで、マイクロフロントサービスを制御???

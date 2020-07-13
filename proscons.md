@@ -17,6 +17,13 @@
 
 ※ https://levelup.gitconnected.com/micro-frontend-curry-506b98a4cfc0
 
+* 小さくて持続可能なコード構造
+* 独立したアプリケーション /チームによる効率的な開発環境とスピード
+* よりスケーラブルな組織構造
+* A / Bテストおよびビルドプロセスの高速化
+
+※ https://medium.com/hepsiburadatech/hepsiburada-micro-frontend-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-4c2f26b8dcae 
+ 
 # Cons
 
 * 重複作業の発生
@@ -37,4 +44,8 @@
 * 異なるバージョンの異なるアプリケーションが同じ依存関係を持っています
 
 ※　https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
+
+* コメントアプリケーションがReact 16.xおよびRedux 4.xを使用し、製品フィルターアプリケーションがReact 15.xおよびRedux 3.xを使用する場合、同じ依存関係がユーザーに何度もインストールされます
+
+※ https://medium.com/hepsiburadatech/hepsiburada-micro-frontend-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-4c2f26b8dcae
 

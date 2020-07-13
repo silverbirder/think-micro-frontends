@@ -16,8 +16,8 @@
 * ✅ https://medium.com/js-dojo/serverless-micro-frontends-using-vue-js-aws-lambda-and-hypernova-835d6f2b3bc9
 * ✅ https://medium.com/swlh/micro-frontend-using-web-components-e9faacfc101b
 * ✅ https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
-* https://medium.com/@PepsRyuu/micro-frontends-341defa8d1d4
-* https://medium.com/hepsiburadatech/hepsiburada-micro-frontend-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-4c2f26b8dcae
+* ✅ https://medium.com/@PepsRyuu/micro-frontends-341defa8d1d4
+* ✅ https://medium.com/hepsiburadatech/hepsiburada-micro-frontend-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-4c2f26b8dcae
 * https://medium.com/javascript-in-plain-english/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a
 * https://medium.com/hackernoon/understanding-micro-frontends-b1c11585a297
 * https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536
