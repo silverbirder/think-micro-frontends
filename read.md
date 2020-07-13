@@ -27,7 +27,7 @@
 * ✅ https://medium.com/stepstone-tech/microfrontends-extending-service-oriented-architecture-to-frontend-development-part-1-120b71c87b68
 * ✅ https://medium.com/bb-tutorials-and-thoughts/6-different-ways-to-implement-micro-frontends-with-angular-298bc8d79f6b
 * ✅ https://medium.com/@benjamin.d.johnson/exploring-micro-frontends-87a120b3f71c
-* https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
+* ✅ https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
 * https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a
 * https://medium.com/swlh/build-micro-frontends-using-angular-elements-the-beginners-guide-75ffeae61b58
 * ✅️ https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3
