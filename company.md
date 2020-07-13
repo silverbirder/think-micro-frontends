@@ -14,3 +14,27 @@
 * Amazon
 * Beamery
   * https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
+
+
+* DAZN
+* Elsevier
+* entando
+* Fiverr
+* Hello Fresh
+* IKEA
+* Bit.dev
+* Microsoft
+* Open Table
+* OpenMRS
+* Otto
+* SAP
+* Sixt
+* Skyscanner
+* smapiot
+* Spotify
+* Starbucks
+* Thalia
+* Zalando
+* ZEISS
+
+※ https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a

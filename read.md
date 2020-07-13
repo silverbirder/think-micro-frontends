@@ -21,8 +21,8 @@
 * ✅ https://medium.com/javascript-in-plain-english/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a
 * ✅ https://medium.com/hackernoon/understanding-micro-frontends-b1c11585a297
 * ✅ https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536
-* https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb
-* https://blog.pragmatists.com/independent-micro-frontends-with-single-spa-library-a829012dc5be
+* ✅ https://itnext.io/building-micro-frontend-applications-with-angular-elements-34483da08bcb
+* ✅ https://blog.pragmatists.com/independent-micro-frontends-with-single-spa-library-a829012dc5be
 * https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a
 * https://medium.com/stepstone-tech/microfrontends-extending-service-oriented-architecture-to-frontend-development-part-1-120b71c87b68
 * https://medium.com/bb-tutorials-and-thoughts/6-different-ways-to-implement-micro-frontends-with-angular-298bc8d79f6b

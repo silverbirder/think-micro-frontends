@@ -85,3 +85,30 @@ https://opencomponents.github.io/
 
 # FrintJS
 https://frint.js.org/
+
+# h include
+http://mnot.github.io/hinclude/
+
+# piral
+
+https://github.com/smapiot/piral
+
+# qiankun
+
+https://github.com/umijs/qiankun
+
+# Puzzle-js
+
+https://github.com/puzzle-js/puzzle-js
+
+# micromono
+
+https://github.com/lsm/micromono
+
+# siteless
+
+https://www.npmjs.com/package/siteless
+
+# EventBus
+
+https://github.com/krasimir/EventBus
