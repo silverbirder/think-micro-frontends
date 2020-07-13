@@ -82,3 +82,6 @@ https://github.com/zalando/tailor
 
 # Open Components
 https://opencomponents.github.io/
+
+# FrintJS
+https://frint.js.org/
