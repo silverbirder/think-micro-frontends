@@ -18,3 +18,9 @@
 * マルチリポジトリ環境では、各マイクロアプリを個別にビルドする必要があります。
 * マルチリポジトリは、非常に大規模なプロジェクトとそれに取り組む非常に大規模なチームがある場合に最適です。
 
+# AWS Architecture
+
+S3にHTML/CSS/JSを置いて、MicroFrontends
+
+※ https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795
+

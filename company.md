@@ -42,3 +42,7 @@
 * ZEISS
 
 ※ https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a
+
+* BuzzFeed
+
+※ https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
