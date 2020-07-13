@@ -32,3 +32,8 @@
 URLベースのデータ共有
 
 ※ https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
+
+ブラウザーストレージ（LocalStorageまたはSessionStorage）
+
+※ https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
+

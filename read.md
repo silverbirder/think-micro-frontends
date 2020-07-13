@@ -28,10 +28,10 @@
 * ✅ https://medium.com/bb-tutorials-and-thoughts/6-different-ways-to-implement-micro-frontends-with-angular-298bc8d79f6b
 * ✅ https://medium.com/@benjamin.d.johnson/exploring-micro-frontends-87a120b3f71c
 * ✅ https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
-* https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a
-* https://medium.com/swlh/build-micro-frontends-using-angular-elements-the-beginners-guide-75ffeae61b58
+* ✅ https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a
+* ✅ https://medium.com/swlh/build-micro-frontends-using-angular-elements-the-beginners-guide-75ffeae61b58
 * ✅️ https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3
-* https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
+* ✅ https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 * ✅️ https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33
 * https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
 * https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795

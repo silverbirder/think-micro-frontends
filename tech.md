@@ -112,3 +112,5 @@ https://www.npmjs.com/package/siteless
 # EventBus
 
 https://github.com/krasimir/EventBus
+
+# スケルトンスクリーン
