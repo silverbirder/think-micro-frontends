@@ -18,6 +18,11 @@
 
 ※ https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513
 
+別の観点
+
+* マイクロフロントエンドは、ページ上の場所ではなく、ビジネスドメインによって分割されます。
+※ https://medium.com/@benjamin.d.johnson/exploring-micro-frontends-87a120b3f71c
+
 # Routing
 
 ※ https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33
