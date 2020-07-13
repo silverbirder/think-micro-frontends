@@ -15,6 +15,17 @@
     クライアントサイドのオーケストレーター
     ※ https://medium.com/bb-tutorials-and-thoughts/6-different-ways-to-implement-micro-frontends-with-angular-298bc8d79f6b
 
+    * DAZNのマイクロフロントエンド分割
+        * リンク先ページ
+        * 認証
+        * カタログ
+        * 再生
+        * スポーツデータ
+        * ユーザーアカウント
+        * ヘルプ
+        * チャット
+            * https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257
+
 * Amazon
 * Beamery
   * https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
