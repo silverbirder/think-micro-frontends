@@ -37,8 +37,8 @@
 * ✅ https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795
 * ✅ https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257
 * ✅ https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca
-* https://medium.com/@lucamezzalira/building-micro-frontends-the-book-a2b531d0279a
-* https://blog.bitsrc.io/tools-and-practices-for-microfrontends-dab0283393f2
+* ✅ https://medium.com/@lucamezzalira/building-micro-frontends-the-book-a2b531d0279a
+* ✅ https://blog.bitsrc.io/tools-and-practices-for-microfrontends-dab0283393f2
 * https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f
 * https://medium.com/@rangleio/five-things-to-consider-before-choosing-micro-frontends-f685e71bdd76
 * https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d

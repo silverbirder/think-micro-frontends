@@ -57,3 +57,12 @@
 * BuzzFeed
 
 ※ https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
+
+* Klarna
+* Upwork
+* Allegro
+* HelloFresh
+* Airbnb
+* Facebook
+
+※ https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f
