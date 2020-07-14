@@ -11,7 +11,7 @@
 * iframe
 * Web Components
 
-Angular, React, Vue, Stencil
+Angular, React, Vue, Stencil, Polymer
 
 # 分割
 

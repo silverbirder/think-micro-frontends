@@ -171,3 +171,7 @@ https://www.thoughtworks.com/radar/techniques/micro-frontends
 アプリケーションのさまざまなサブドメインを特定する場合は、十分な時間を投資してください。この決定は、技術チームの構成方法や、チーム間の依存関係が原因で会社が費やす通信のオーバーヘッドに影響を与える可能性があるためです。
 
 ※ https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257
+
+# Cache
+
+※ https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d

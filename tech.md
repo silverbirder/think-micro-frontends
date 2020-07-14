@@ -113,7 +113,7 @@ https://www.npmjs.com/package/siteless
 
 https://github.com/krasimir/EventBus
 
-# スケルトンスクリーン
+# スケルトンUI
 
 # WebPack module federation
 
