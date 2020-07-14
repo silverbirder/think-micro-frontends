@@ -39,3 +39,10 @@ URLベースのデータ共有
 
 ※ https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 
+
+# オーケストラ
+
+* すべてをオーケストレーションするための親コンテナーアプリを備えたマイクロフロントエンドアーキテクチャ用のWebコンポーネントを使用することにしました。親アプリは、ユーザーセッションと関連するUI要素の管理を担当します。また、アプリケーション間のルーティングを管理し、ナビゲーションコンポーネントをレンダリングし、正しいアプリケーションをロードしてレンダリングします。
+
+※ https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-i-162b1e529074
+

@@ -100,7 +100,7 @@ https://github.com/umijs/qiankun
 # Puzzle-js
 
 https://github.com/puzzle-js/puzzle-js
-xz
+
 # micromono
 
 https://github.com/lsm/micromono

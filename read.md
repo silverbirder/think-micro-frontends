@@ -41,8 +41,8 @@
 * ✅ https://blog.bitsrc.io/tools-and-practices-for-microfrontends-dab0283393f2
 * ✅ https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f
 * ✅ https://medium.com/@rangleio/five-things-to-consider-before-choosing-micro-frontends-f685e71bdd76
-* ✅　https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d
-* https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-i-162b1e529074
+* ✅ https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d
+* ✅ https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-i-162b1e529074
 * https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-ii-8fa730d05b14
 * https://medium.com/bb-tutorials-and-thoughts/should-we-frameworks-for-micro-frontends-35f9f15b7821
 * https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b
