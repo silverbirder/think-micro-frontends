@@ -88,6 +88,7 @@
 * https://medium.embengineering.com/micro-front-ends-76171c02ab17
 * https://medium.com/codingtown/micro-frontends-mystery-8b51b6e2f7f9
 * https://medium.com/rangle-io/micro-frontends-and-the-rise-of-federated-applications-265171bcb346
+* https://medium.com/@felipegaiacharly/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
 
 # DevTo
 
@@ -120,6 +121,7 @@
 * https://dev.to/okmttdhr/webpack-module-federation-in-3-minutes-4d3l
 * https://dev.to/open-wc/open-wc-scoped-elements-3e47
 * https://dev.to/jakelumetta/microservices-for-startups-an-interview-with-mike-hu-of-logdna-1bhm
+* https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
 
 # Github
 
@@ -138,3 +140,9 @@
 * https://dzone.com/articles/micro-frontends-a-simple-demo
 * https://bit.dev/
 * https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
+
+* https://www.infoq.com/news/2020/07/microfrontends-vue-yoav-yanovski/
+* https://www.infoq.com/articles/microfrontends-business-needs
+
+# InfoQ
+https://www.infoq.com/search.action?queryString=Micro+Frontends
