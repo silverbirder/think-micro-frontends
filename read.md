@@ -36,7 +36,7 @@
 * ✅ https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
 * ✅ https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795
 * ✅ https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257
-* https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca
+* ✅ https://medium.com/@gilfink/avoiding-the-framework-catholic-wedding-using-stencil-compiler-3c2aa55bcaca
 * https://medium.com/@lucamezzalira/building-micro-frontends-the-book-a2b531d0279a
 * https://blog.bitsrc.io/tools-and-practices-for-microfrontends-dab0283393f2
 * https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f
@@ -121,7 +121,7 @@
 * https://dev.to/okmttdhr/webpack-module-federation-in-3-minutes-4d3l
 * https://dev.to/open-wc/open-wc-scoped-elements-3e47
 * https://dev.to/jakelumetta/microservices-for-startups-an-interview-with-mike-hu-of-logdna-1bhm
-* https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
+* ✅ https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
 
 # Github
 

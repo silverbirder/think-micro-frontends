@@ -100,7 +100,7 @@ https://github.com/umijs/qiankun
 # Puzzle-js
 
 https://github.com/puzzle-js/puzzle-js
-
+xz
 # micromono
 
 https://github.com/lsm/micromono
@@ -114,3 +114,7 @@ https://www.npmjs.com/package/siteless
 https://github.com/krasimir/EventBus
 
 # スケルトンスクリーン
+
+# WebPack module federation
+
+※ https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
