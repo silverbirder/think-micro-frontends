@@ -24,3 +24,6 @@ S3にHTML/CSS/JSを置いて、MicroFrontends
 
 ※ https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795
 
+# Micro Frontendsの構築順序
+
+https://medium.com/@_rchaves_/building-microfrontends-part-iv-using-cdns-tech-radar-for-consensus-7dd658c1edb7

@@ -121,3 +121,6 @@ https://github.com/krasimir/EventBus
 
 # nx.dev
 https://nx.dev/angular
+
+# Reactive Programming
+書いてみただけ。

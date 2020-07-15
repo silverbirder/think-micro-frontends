@@ -45,10 +45,10 @@
 * ✅ https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-i-162b1e529074
 * ✅ https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-ii-8fa730d05b14
 * ✅ https://medium.com/bb-tutorials-and-thoughts/should-we-frameworks-for-micro-frontends-35f9f15b7821
-* https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b
-* https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7
-* https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
-* https://medium.jonasbandi.net/frontend-monoliths-run-if-you-can-voxxed-day-zuerich-2019-d8d714ff361a
+* ✅ https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b
+* ✅ https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7
+* ✅ https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
+* ✅ https://medium.jonasbandi.net/frontend-monoliths-run-if-you-can-voxxed-day-zuerich-2019-d8d714ff361a
 * https://medium.com/@gilfink/why-im-betting-on-web-components-and-you-should-think-about-using-them-too-8629396e27a
 * https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716
 * https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32
