@@ -175,3 +175,9 @@ https://www.thoughtworks.com/radar/techniques/micro-frontends
 # Cache
 
 ※ https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d
+
+# SDLC
+
+![SDLC](https://miro.medium.com/max/1400/1*64pi9rV0JelzrJj71P013g.png)
+
+※ https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b

@@ -55,3 +55,9 @@
 
 ※ https://medium.com/hepsiburadatech/hepsiburada-micro-frontend-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-4c2f26b8dcae
 
+* サイト全体のCSSスタイル
+* サイト全体のCI / CDプロセス
+* 別々のマイクロフロントエンドで作業する複数のチームは、互いに協力する必要があります。
+* チームが独立して作業できない場合、それはモノリスアプリケーションのように聞こえます。
+
+※ https://medium.com/bb-tutorials-and-thoughts/should-we-frameworks-for-micro-frontends-35f9f15b7821 
