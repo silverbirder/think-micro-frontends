@@ -49,9 +49,9 @@
 * ✅ https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7
 * ✅ https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
 * ✅ https://medium.jonasbandi.net/frontend-monoliths-run-if-you-can-voxxed-day-zuerich-2019-d8d714ff361a
-* https://medium.com/@gilfink/why-im-betting-on-web-components-and-you-should-think-about-using-them-too-8629396e27a
-* https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716
-* https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32
+* ✅ https://medium.com/@gilfink/why-im-betting-on-web-components-and-you-should-think-about-using-them-too-8629396e27a
+* ✅ https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716
+* ✅ https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32
 * https://engineering.contaazul.com/evolving-an-angularjs-application-using-microfrontends-2bbcac9c023a
 * https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb
 * https://medium.com/js-dojo/micro-frontends-using-vue-js-react-js-and-hypernova-af606a774602
