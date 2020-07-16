@@ -100,10 +100,8 @@
 * ✅ https://dev.to/thejoin95/micro-frontends-from-the-00s-to-20s-5a2
 * ✅ https://dev.to/florianrappl/communication-between-micro-frontends-41fe
 * ✅ https://dev.to/phodal/micro-frontend-architecture-in-action-4n60
-* https://dev.to/jondearaujo/the-approaches-and-challenges-of-micro-frontends-a-theoretical-introduction-176
-* https://dev.to/osde8info/edge-side-includes-esi-lang-and-micro-front-ends-3oah
-* https://dev.to/stylet/how-to-build-your-first-micro-frontend-with-ssr-in-minutes-3jko
-* https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali
+* ✅ https://dev.to/jondearaujo/the-approaches-and-challenges-of-micro-frontends-a-theoretical-introduction-176
+* ✅ https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali
 * https://dev.to/abhinavnigam2207/an-approach-to-micro-frontend-architecture-mvp-with-nextjs-2l84
 * https://dev.to/steveblue/why-i-coded-a-micro-library-for-web-components-46ig
 * https://dev.to/jamesmh/using-micro-uis-to-extend-legacy-web-applications-166
