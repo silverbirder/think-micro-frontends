@@ -83,8 +83,8 @@
 * ✅ https://medium.embengineering.com/micro-front-ends-server-side-rendering-2b515220a56e
 * ✅ https://medium.com/wehkamp-techblog/sharing-server-code-between-micro-sites-4f23359101e5
 * ✅ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
-* https://itnext.io/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
-* https://medium.com/@singh.architsinghaim/micro-front-ends-dc105f5c0fea
+* ✅ https://itnext.io/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
+* ✅ https://medium.com/@singh.architsinghaim/micro-front-ends-dc105f5c0fea
 * https://medium.embengineering.com/micro-front-ends-76171c02ab17
 * https://medium.com/codingtown/micro-frontends-mystery-8b51b6e2f7f9
 * https://medium.com/rangle-io/micro-frontends-and-the-rise-of-federated-applications-265171bcb346

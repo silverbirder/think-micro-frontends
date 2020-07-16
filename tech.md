@@ -135,3 +135,7 @@ https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
 * cookie
 * url
 ※ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
+
+# Composite Pattern
+
+https://medium.com/front-end-weekly/micro-front-ends-dc105f5c0fea
