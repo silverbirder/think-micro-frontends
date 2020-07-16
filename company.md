@@ -66,3 +66,6 @@
 * Facebook
 
 ※ https://medium.com/better-programming/thoughts-about-micro-frontends-in-2020-dd95eb7216f
+
+各企業の技術
+※ https://levelup.gitconnected.com/brief-introduction-to-micro-frontends-architecture-ec928c587727

@@ -51,3 +51,6 @@ URLベースのデータ共有
 
 ※ https://eng.collectivehealth.com/gracefully-scaling-web-applications-with-micro-frontends-part-i-162b1e529074
 
+# History
+
+History API
