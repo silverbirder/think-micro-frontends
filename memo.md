@@ -196,3 +196,4 @@ https://www.thoughtworks.com/radar/techniques/micro-frontends
   * 依存関係管理
 
 ※ https://dev.to/onerzafer/understanding-micro-frontends-1ied
+※ https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4

@@ -95,16 +95,11 @@
 * ✅ https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op
 * ✅ https://dev.to/florianrappl/11-popular-misconceptions-about-micro-frontends-463p
 * ✅ https://dev.to/rsschouwenaar/thoughts-about-micro-frontends-in-2020-39ed
-* https://dev.to/onerzafer/understanding-micro-frontends-1ied
-* https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4
-* https://dev.to/93lucasp/micro-frontends-architecture-the-future-of-frontend-development-1bb6
-* https://dev.to/buzzfeedtech/why-we-use-micro-frontends-at-buzzfeed-1k9o
-* https://dev.to/thejoin95/micro-frontends-from-the-00s-to-20s-5a2
-* https://dev.to/florianrappl/communication-between-micro-frontends-41fe
-* https://dev.to/phodal/micro-frontend-architecture-in-action-4n60
-* https://dev.to/unbug/micro-frontends-is-the-new-way-to-design-for-ai-25cp
-* https://dev.to/dailydotdev/micro-frontends-chrome-80-javascript-devpad-and-more-weekly-picks-115-76o
-* https://dev.to/betula/my-beloved-react-micro-frontends-1o3g
+* ✅ https://dev.to/onerzafer/understanding-micro-frontends-1ied
+* ✅ https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4
+* ✅ https://dev.to/thejoin95/micro-frontends-from-the-00s-to-20s-5a2
+* ✅ https://dev.to/florianrappl/communication-between-micro-frontends-41fe
+* ✅ https://dev.to/phodal/micro-frontend-architecture-in-action-4n60
 * https://dev.to/jondearaujo/the-approaches-and-challenges-of-micro-frontends-a-theoretical-introduction-176
 * https://dev.to/osde8info/edge-side-includes-esi-lang-and-micro-front-ends-3oah
 * https://dev.to/stylet/how-to-build-your-first-micro-frontend-with-ssr-in-minutes-3jko
