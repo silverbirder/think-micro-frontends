@@ -92,7 +92,7 @@
 
 # DevTo
 
-* https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op
+* ✅ https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op
 * https://dev.to/florianrappl/11-popular-misconceptions-about-micro-frontends-463p
 * https://dev.to/rsschouwenaar/thoughts-about-micro-frontends-in-2020-39ed
 * https://dev.to/sadekhussein/micro-frontends-architecture-4341
@@ -141,8 +141,7 @@
 * https://bit.dev/
 * https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
 
+# InfoQ
+* https://www.infoq.com/search.action?queryString=Micro+Frontends
 * https://www.infoq.com/news/2020/07/microfrontends-vue-yoav-yanovski/
 * https://www.infoq.com/articles/microfrontends-business-needs
-
-# InfoQ
-https://www.infoq.com/search.action?queryString=Micro+Frontends
