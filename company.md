@@ -50,6 +50,7 @@
 * Starbucks
 * Thalia
 * Zalando
+  * https://www.microservices.com/talks/mosaic-microservices-zalando-tech/
 * ZEISS
 
 ※ https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a
@@ -59,9 +60,13 @@
 ※ https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178
 
 * Klarna
+  * https://news.ycombinator.com/item?id=13012916
 * Upwork
+  * https://www.upwork.com/hire/
 * Allegro
+  * https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html
 * HelloFresh
+  * https://engineering.hellofresh.com/front-end-microservices-at-hellofresh-23978a611b87
 * Airbnb
 * Facebook
 
