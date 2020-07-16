@@ -124,3 +124,7 @@ https://nx.dev/angular
 
 # Reactive Programming
 書いてみただけ。
+
+# Webpack manifest
+
+https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53

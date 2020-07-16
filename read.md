@@ -68,15 +68,15 @@
 * ✅ https://medium.com/stepstone-tech/microfrontends-part-2-integration-and-communication-3385bc242673
 * ✅ https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e
 * ✅ https://medium.com/js-dojo/implementing-microfrontends-in-nuxt-js-using-svelte-and-ara-framework-8c06b683472c
-* https://itnext.io/implementing-microfrontends-in-gatsbyjs-using-ara-framework-a95ee79cc0e7
-* https://itnext.io/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b
-* https://itnext.io/page-building-using-micro-frontends-c13c157958c8
-* https://medium.com/notonlycss/micro-frontends-architecture-1407092403d5
-* https://medium.com/soluto-nashville/not-so-micro-frontends-building-a-reverse-proxy-f41ab5cde81c
-* https://medium.com/@armand1m_/why-micro-frontends-might-not-work-for-you-5a810b4687b0
-* https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
-* https://medium.com/better-programming/you-dont-have-to-lose-optimization-for-micro-frontends-60a63d5f94fe
-* https://medium.com/wix-engineering/3-ways-micro-frontends-could-improve-your-life-dev-velocity-and-product-97ff611881b5
+* ✅ https://itnext.io/implementing-microfrontends-in-gatsbyjs-using-ara-framework-a95ee79cc0e7
+* ✅ https://itnext.io/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b
+* ✅ https://itnext.io/page-building-using-micro-frontends-c13c157958c8
+* ✅ https://medium.com/notonlycss/micro-frontends-architecture-1407092403d5
+* ✅ https://medium.com/soluto-nashville/not-so-micro-frontends-building-a-reverse-proxy-f41ab5cde81c
+* ✅ https://medium.com/@armand1m_/why-micro-frontends-might-not-work-for-you-5a810b4687b0
+* ✅ https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
+* ✅ https://medium.com/better-programming/you-dont-have-to-lose-optimization-for-micro-frontends-60a63d5f94fe
+* ✅ https://medium.com/wix-engineering/3-ways-micro-frontends-could-improve-your-life-dev-velocity-and-product-97ff611881b5
 * https://medium.com/oracledevs/microservice-approach-for-web-development-micro-frontends-1cba93d85021
 * https://medium.com/@miki.lombi/micro-frontends-from-the-00s-to-20s-19b37efece6d
 * https://medium.com/@soroushchehresa/deep-dive-into-the-micro-frontends-approach-c2ba1e5cd689
