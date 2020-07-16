@@ -40,6 +40,10 @@ URLベースのデータ共有
 
 ※ https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f
 
+Local Storage 良いかも
+
+※ https://medium.com/stepstone-tech/microfrontends-part-2-integration-and-communication-3385bc242673
+
 * 依存関係を共有する便利な方法は、アプリシェルを直接使用することです。
   * データ共有は、windowオブジェクトにするのではなく、AppShellが管理することが良い？
     * が、フラグメントは、AppShellに依存するので、壊れる可能性がある。

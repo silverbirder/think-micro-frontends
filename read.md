@@ -65,9 +65,9 @@
 * ✅ https://medium.com/trendyol-tech/micro-frontends-how-it-changed-our-development-process-a5cf667356da
 * ✅ https://medium.embengineering.com/micro-front-end-and-web-components-ce6ae87c3b7f
 * ✅ https://medium.com/@witek1902/ui-in-microservices-world-micro-frontends-pattern-and-web-components-23607a569363
-* https://medium.com/stepstone-tech/microfrontends-part-2-integration-and-communication-3385bc242673
-* https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e
-* https://medium.com/js-dojo/implementing-microfrontends-in-nuxt-js-using-svelte-and-ara-framework-8c06b683472c
+* ✅ https://medium.com/stepstone-tech/microfrontends-part-2-integration-and-communication-3385bc242673
+* ✅ https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e
+* ✅ https://medium.com/js-dojo/implementing-microfrontends-in-nuxt-js-using-svelte-and-ara-framework-8c06b683472c
 * https://itnext.io/implementing-microfrontends-in-gatsbyjs-using-ara-framework-a95ee79cc0e7
 * https://itnext.io/strangling-a-monolith-to-micro-frontends-decoupling-presentation-layer-18a33ddf591b
 * https://itnext.io/page-building-using-micro-frontends-c13c157958c8
