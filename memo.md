@@ -181,3 +181,18 @@ https://www.thoughtworks.com/radar/techniques/micro-frontends
 ![SDLC](https://miro.medium.com/max/1400/1*64pi9rV0JelzrJj71P013g.png)
 
 ※ https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b
+
+# AppsManager
+
+* クライアント側
+  * オーケストレーション
+  * ルーティング
+  * マイクロアプリの分離
+  * アプリ間の通信
+  * マイクロアプリUI間の一貫性
+* サーバ側
+  * サーバー側レンダリング
+  * ルーティング
+  * 依存関係管理
+
+※ https://dev.to/onerzafer/understanding-micro-frontends-1ied

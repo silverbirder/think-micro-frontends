@@ -95,7 +95,6 @@
 * ✅ https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op
 * ✅ https://dev.to/florianrappl/11-popular-misconceptions-about-micro-frontends-463p
 * ✅ https://dev.to/rsschouwenaar/thoughts-about-micro-frontends-in-2020-39ed
-* https://dev.to/sadekhussein/micro-frontends-architecture-4341
 * https://dev.to/onerzafer/understanding-micro-frontends-1ied
 * https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4
 * https://dev.to/93lucasp/micro-frontends-architecture-the-future-of-frontend-development-1bb6

@@ -1,4 +1,7 @@
 # 統合
+ステッチングレイヤー(Stitching layer) とも言われる。
+※ https://dev.to/onerzafer/understanding-micro-frontends-1ied
+
 ## ビルド時の統合
 プライベートにライブラリを公開し、npm pluginを使う。
 
