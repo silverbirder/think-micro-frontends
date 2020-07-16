@@ -27,3 +27,8 @@ S3にHTML/CSS/JSを置いて、MicroFrontends
 # Micro Frontendsの構築順序
 
 https://medium.com/@_rchaves_/building-microfrontends-part-iv-using-cdns-tech-radar-for-consensus-7dd658c1edb7
+
+# Plugin Architecture
+
+https://azu.gitbooks.io/javascript-plugin-architecture/content/
+※ https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb
