@@ -60,11 +60,11 @@
 * ✅ https://medium.com/@pyaesonenyein/micro-frontends-part-one-95ea3d939bc6
 * ✅ https://medium.com/outbrain-engineering/micro-front-ends-doing-it-angular-style-part-1-219c842fd02e
 * ✅ https://levelup.gitconnected.com/brief-introduction-to-micro-frontends-architecture-ec928c587727
-* https://itnext.io/prototyping-micro-frontends-d03397c5f770
-* https://blog.bitsrc.io/mini-web-apps-a-bounded-context-for-microfrontends-with-microservices-f1482af9276f
-* https://medium.com/trendyol-tech/micro-frontends-how-it-changed-our-development-process-a5cf667356da
-* https://medium.embengineering.com/micro-front-end-and-web-components-ce6ae87c3b7f
-* https://medium.com/@witek1902/ui-in-microservices-world-micro-frontends-pattern-and-web-components-23607a569363
+* ✅ https://itnext.io/prototyping-micro-frontends-d03397c5f770
+* ✅ https://blog.bitsrc.io/mini-web-apps-a-bounded-context-for-microfrontends-with-microservices-f1482af9276f
+* ✅ https://medium.com/trendyol-tech/micro-frontends-how-it-changed-our-development-process-a5cf667356da
+* ✅ https://medium.embengineering.com/micro-front-end-and-web-components-ce6ae87c3b7f
+* ✅ https://medium.com/@witek1902/ui-in-microservices-world-micro-frontends-pattern-and-web-components-23607a569363
 * https://medium.com/stepstone-tech/microfrontends-part-2-integration-and-communication-3385bc242673
 * https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e
 * https://medium.com/js-dojo/implementing-microfrontends-in-nuxt-js-using-svelte-and-ara-framework-8c06b683472c
