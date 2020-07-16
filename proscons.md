@@ -61,3 +61,10 @@
 * チームが独立して作業できない場合、それはモノリスアプリケーションのように聞こえます。
 
 ※ https://medium.com/bb-tutorials-and-thoughts/should-we-frameworks-for-micro-frontends-35f9f15b7821 
+
+* マイクロサービスと同様に、追跡、デバッグ、追跡はモノリスよりもはるかに難しく、優れた戦略が必要です。
+* マイクロフロントエンドは、操作が複雑でコストも高くなります。
+* 多くのバージョンがあるので、バージョン管理への対応を検討する必要があります。
+* プラグイン間でUI / UXの不整合を利用できます。
+* マイクロフロントエンドの実装が不適切な場合、パフォーマンスが低下する可能性があります。
+※ https://medium.com/@pyaesonenyein/micro-frontends-part-one-95ea3d939bc6 
