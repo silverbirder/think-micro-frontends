@@ -128,3 +128,10 @@ https://nx.dev/angular
 # Webpack manifest
 
 https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
+
+# JWT (token)
+
+* local storage, session storage.
+* cookie
+* url
+※ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121

@@ -77,12 +77,12 @@
 * ✅ https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
 * ✅ https://medium.com/better-programming/you-dont-have-to-lose-optimization-for-micro-frontends-60a63d5f94fe
 * ✅ https://medium.com/wix-engineering/3-ways-micro-frontends-could-improve-your-life-dev-velocity-and-product-97ff611881b5
-* https://medium.com/oracledevs/microservice-approach-for-web-development-micro-frontends-1cba93d85021
-* https://medium.com/@miki.lombi/micro-frontends-from-the-00s-to-20s-19b37efece6d
-* https://medium.com/@soroushchehresa/deep-dive-into-the-micro-frontends-approach-c2ba1e5cd689
-* https://medium.embengineering.com/micro-front-ends-server-side-rendering-2b515220a56e
-* https://medium.com/wehkamp-techblog/sharing-server-code-between-micro-sites-4f23359101e5
-* https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
+* ✅ https://medium.com/oracledevs/microservice-approach-for-web-development-micro-frontends-1cba93d85021
+* ✅ https://medium.com/@miki.lombi/micro-frontends-from-the-00s-to-20s-19b37efece6d
+* ✅ https://medium.com/@soroushchehresa/deep-dive-into-the-micro-frontends-approach-c2ba1e5cd689
+* ✅ https://medium.embengineering.com/micro-front-ends-server-side-rendering-2b515220a56e
+* ✅ https://medium.com/wehkamp-techblog/sharing-server-code-between-micro-sites-4f23359101e5
+* ✅ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
 * https://itnext.io/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
 * https://medium.com/@singh.architsinghaim/micro-front-ends-dc105f5c0fea
 * https://medium.embengineering.com/micro-front-ends-76171c02ab17
