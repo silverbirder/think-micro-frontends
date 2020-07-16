@@ -54,8 +54,8 @@
 * ✅ https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32
 * ✅ https://engineering.contaazul.com/evolving-an-angularjs-application-using-microfrontends-2bbcac9c023a
 * ✅ https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb
-* https://medium.com/js-dojo/micro-frontends-using-vue-js-react-js-and-hypernova-af606a774602
-* https://medium.com/linedevth/micro-frontends-the-new-era-of-front-end-edge-technology-cb981ad26eae
+* ✅ https://medium.com/js-dojo/micro-frontends-using-vue-js-react-js-and-hypernova-af606a774602
+* ✅ https://medium.com/linedevth/micro-frontends-the-new-era-of-front-end-edge-technology-cb981ad26eae
 * https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b
 * https://medium.com/@pyaesonenyein/micro-frontends-part-one-95ea3d939bc6
 * https://medium.com/outbrain-engineering/micro-front-ends-doing-it-angular-style-part-1-219c842fd02e

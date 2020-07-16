@@ -2,6 +2,8 @@
 * enterprice architecture (clean architecture)
   * https://itnext.io/building-vue-enterprise-application-part-3-the-store-dbda0e4bb117
 * jamstack
+  * GatsbyJS と micro frontends
+  * https://itnext.io/implementing-microfrontends-in-gatsbyjs-using-ara-framework-a95ee79cc0e7
 * app shell
 * CDN(edge worker)
 
