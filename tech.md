@@ -164,3 +164,7 @@ https://www.mashroom-server.com/
 # Varnish EDI
 
 ※ https://siguniang.wordpress.com/2013/12/30/varnish-4-edge-side-includes/
+
+# Async API
+
+https://www.asyncapi.com/
