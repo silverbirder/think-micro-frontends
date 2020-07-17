@@ -124,6 +124,7 @@
 * https://webpack.js.org/concepts/module-federation/
 * https://dzone.com/articles/micro-frontends-a-simple-demo
 * https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
+* ✅ https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html
 
 # InfoQ
 * https://www.infoq.com/search.action?queryString=Micro+Frontends
