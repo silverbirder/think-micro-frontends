@@ -102,27 +102,20 @@
 * ✅ https://dev.to/phodal/micro-frontend-architecture-in-action-4n60
 * ✅ https://dev.to/jondearaujo/the-approaches-and-challenges-of-micro-frontends-a-theoretical-introduction-176
 * ✅ https://dev.to/scriptedalchemy/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-3ali
-* https://dev.to/abhinavnigam2207/an-approach-to-micro-frontend-architecture-mvp-with-nextjs-2l84
-* https://dev.to/steveblue/why-i-coded-a-micro-library-for-web-components-46ig
-* https://dev.to/jamesmh/using-micro-uis-to-extend-legacy-web-applications-166
-* https://dev.to/jonisar/11-must-know-frontend-trends-for-2020-13e1
-* https://dev.to/manfredsteyer/6-steps-to-your-angular-based-microfrontend-shell-1nei
-* https://dev.to/coroutinedispatcher/working-on-modularising-android-app-314c
-* https://dev.to/qcobjects/qcobjects-on-amazon-web-services-marketplace-5h4o
-* https://dev.to/remast/my-software-architecture-resources-g38
-* https://dev.to/okmttdhr/webpack-module-federation-in-3-minutes-4d3l
-* https://dev.to/open-wc/open-wc-scoped-elements-3e47
-* https://dev.to/jakelumetta/microservices-for-startups-an-interview-with-mike-hu-of-logdna-1bhm
+* ✅ https://dev.to/abhinavnigam2207/an-approach-to-micro-frontend-architecture-mvp-with-nextjs-2l84
+* ✅ https://dev.to/jamesmh/using-micro-uis-to-extend-legacy-web-applications-166
+* ✅ https://dev.to/jonisar/11-must-know-frontend-trends-for-2020-13e1
+* ✅ https://dev.to/manfredsteyer/6-steps-to-your-angular-based-microfrontend-shell-1nei
+* ✅ https://dev.to/coroutinedispatcher/working-on-modularising-android-app-314c
+* ✅ https://dev.to/remast/my-software-architecture-resources-g38
+* ✅ https://dev.to/open-wc/open-wc-scoped-elements-3e47
 * ✅ https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
 
 # Github
 
-* https://github.com/airbnb/hypernova
 * https://github.com/ChristianUlbrich/awesome-microfrontends
 * https://github.com/rajasegar/awesome-micro-frontends
 * https://github.com/MPankajArun/awesome-micro-frontends
-* https://github.com/SAP/luigi
-* https://github.com/module-federation/module-federation-examples
 
 # Other
 
@@ -130,7 +123,6 @@
 * https://blog.hiroppy.me/entry/module-federation
 * https://webpack.js.org/concepts/module-federation/
 * https://dzone.com/articles/micro-frontends-a-simple-demo
-* https://bit.dev/
 * https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
 
 # InfoQ

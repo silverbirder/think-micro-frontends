@@ -118,6 +118,7 @@ https://github.com/krasimir/EventBus
 # WebPack module federation
 
 ※ https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
+※ https://github.com/module-federation/module-federation-examples
 
 # nx.dev
 https://nx.dev/angular
@@ -139,3 +140,7 @@ https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
 # Composite Pattern
 
 https://medium.com/front-end-weekly/micro-front-ends-dc105f5c0fea
+
+# Open-wc scoped-elements
+
+https://dev.to/open-wc/open-wc-scoped-elements-3e47

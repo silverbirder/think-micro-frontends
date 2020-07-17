@@ -15,7 +15,8 @@
 * Web Components
 
 Angular, React, Vue, Stencil, Polymer
-Ember, Backbone, Stencil, Preact
+Ember, Backbone, Preact
+Lit-html （およびLit-element） SvelteJS 
 
 # 分割
 
