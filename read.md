@@ -120,11 +120,16 @@
 # Other
 
 * https://martinfowler.com/articles/micro-frontends.html
-* https://blog.hiroppy.me/entry/module-federation
-* https://webpack.js.org/concepts/module-federation/
 * https://dzone.com/articles/micro-frontends-a-simple-demo
 * https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
+
 * ✅ https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html
+* ✅ https://engineering.hellofresh.com/front-end-microservices-at-hellofresh-23978a611b87
+* ✅ http://tech.opentable.co.uk/blog/2016/04/27/opencomponents-microservices-in-the-front-end-world/
+* ✅ http://tech.opentable.co.uk/blog/2015/02/09/dismantling-the-monolith-microsites-at-opentable/
+* ✅ https://medium.com/@matteofigus/5-years-of-opencomponents-3114e6d6a35b
+* ✅ https://blog.senacor.com/microfrontends/
+* ✅ https://www.infoq.com/news/2018/08/experiences-micro-frontends/
 
 # InfoQ
 * https://www.infoq.com/search.action?queryString=Micro+Frontends
