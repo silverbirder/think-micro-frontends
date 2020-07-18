@@ -34,3 +34,16 @@ https://medium.com/@_rchaves_/building-microfrontends-part-iv-using-cdns-tech-ra
 
 https://azu.gitbooks.io/javascript-plugin-architecture/content/
 ※ https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb
+
+# Micro Service
+
+1.ビジネスドメインを中心にモデル化 
+2.自動化の文化
+3.実装の詳細を非表示にします。
+4.すべてのものを分散させる
+5.個別に展開する
+6.消費者第一
+7.障害を特定する
+8.非常に観察可能
+
+※ https://www.agilechamps.com/microservices-to-micro-frontends/

@@ -172,3 +172,5 @@ https://www.asyncapi.com/
 # compoxure
 
 https://github.com/tes/compoxure
+
+# HTTP/2

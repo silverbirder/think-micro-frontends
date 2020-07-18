@@ -137,6 +137,7 @@
 * ✅ https://www.thoughtworks.com/de/radar/techniques/micro-frontends
 * ✅ http://blog.wolksoftware.com/microlibraries-the-future-of-web-development
 * ✅ https://xebia.com/blog/the-monolithic-frontend-in-the-microservices-architecture/
+* ✅ https://x-team.com/blog/micro-frontend/
 
 # InfoQ
 * https://www.infoq.com/search.action?queryString=Micro+Frontends
