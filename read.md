@@ -114,7 +114,7 @@
 # Github
 
 * ✅ https://github.com/ChristianUlbrich/awesome-microfrontends
-* https://github.com/rajasegar/awesome-micro-frontends
+* ✅ https://github.com/rajasegar/awesome-micro-frontends
 * ✅ https://github.com/MPankajArun/awesome-micro-frontends
 
 # Other
@@ -130,6 +130,9 @@
 * ✅ https://medium.com/@matteofigus/5-years-of-opencomponents-3114e6d6a35b
 * ✅ https://blog.senacor.com/microfrontends/
 * ✅ https://www.infoq.com/news/2018/08/experiences-micro-frontends/
+* ✅ https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react
+* ✅ https://www.agilechamps.com/microservices-to-micro-frontends/
+* ✅ https://gustafnk.github.io/microservice-websites/
 
 # InfoQ
 * https://www.infoq.com/search.action?queryString=Micro+Frontends

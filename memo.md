@@ -197,3 +197,7 @@ https://www.thoughtworks.com/radar/techniques/micro-frontends
 
 ※ https://dev.to/onerzafer/understanding-micro-frontends-1ied
 ※ https://dev.to/aregee/breaking-down-the-last-monolith-micro-frontends-hd4
+
+# Other
+
+https://paulhammant.com/categories.html
