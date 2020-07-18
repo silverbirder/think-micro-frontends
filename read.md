@@ -138,9 +138,8 @@
 * ✅ https://x-team.com/blog/micro-frontend/
 
 # InfoQ
-* https://www.infoq.com/news/2020/07/microfrontends-vue-yoav-yanovski/
-* https://www.infoq.com/articles/microfrontends-business-needs
-* https://www.infoq.com/articles/architecture-trends-2020/
-* https://www.infoq.com/podcasts/micro-frontends-dazn/
-* https://www.infoq.com/news/2018/08/experiences-micro-frontends/
-* https://www.infoq.com/news/2020/01/strategies-micro-frontends/
+* ✅ https://www.infoq.com/news/2020/07/microfrontends-vue-yoav-yanovski/
+* ✅ https://www.infoq.com/articles/microfrontends-business-needs
+* ✅ https://www.infoq.com/articles/architecture-trends-2020/
+* ✅ https://www.infoq.com/news/2018/08/experiences-micro-frontends/
+* ✅ https://www.infoq.com/news/2020/01/strategies-micro-frontends/
