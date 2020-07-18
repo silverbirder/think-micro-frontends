@@ -119,10 +119,8 @@
 
 # Other
 
-* https://martinfowler.com/articles/micro-frontends.html
-* https://dzone.com/articles/micro-frontends-a-simple-demo
-* https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
-
+* ✅ https://martinfowler.com/articles/micro-frontends.html
+* ✅ https://thenewstack.io/microfrontends-the-benefits-of-microservices-for-client-side-development
 * ✅ https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html
 * ✅ https://engineering.hellofresh.com/front-end-microservices-at-hellofresh-23978a611b87
 * ✅ http://tech.opentable.co.uk/blog/2016/04/27/opencomponents-microservices-in-the-front-end-world/
