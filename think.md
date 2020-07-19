@@ -78,11 +78,22 @@
 Luigiは、LuigiCoreを中心としたMicro Frontendsに必要な機能を提供するフレームワーク。
 RoutingやAuthなどの機能や、Vue,React,Angularなどをサポートしているみたいだ。
 
+クライアントサイド統合。
+
 ### Podium
 下記で紹介している。
 https://silverbirder180.hatenablog.com/entry/2020/05/04/182921
 
+サーバーサイド統合。
+
 ### Single-Spa
+https://single-spa.js.org
+
+> single-spa is a framework for bringing together multiple JavaScript microfrontends in a frontend application.
+※ https://single-spa.js.org/docs/getting-started-overview
+
+クライアントサイド統合。
+
 ### Ara-Framework
 #### Hypernova
 ### Tailor
@@ -103,6 +114,7 @@ https://silverbirder180.hatenablog.com/entry/2020/05/04/182921
 ### Misk-Web
 ### Mashroom
 ### compoxure
+### namecheap/ilc
 ## Browser Support
 ## Other
 ### Skeleton UI
