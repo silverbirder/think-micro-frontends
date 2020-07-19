@@ -67,7 +67,21 @@
 ## Technology stack
 ### Bit.dev
 ### Luigi
+![Luigi Overview Diagram](https://raw.githubusercontent.com/SAP/luigi/master/docs/assets/luigi-overview-diagram.jpg)
+※ https://docs.luigi-project.io
+
+![Luigi Architecture](https://docs.luigi-project.io/docu-microfrontend/assets/architecture.png)
+※ https://docs.luigi-project.io/docs/luigi-architecture
+
+> Luigi is an open source JavaScript framework for micro frontends.
+
+Luigiは、LuigiCoreを中心としたMicro Frontendsに必要な機能を提供するフレームワーク。
+RoutingやAuthなどの機能や、Vue,React,Angularなどをサポートしているみたいだ。
+
 ### Podium
+下記で紹介している。
+https://silverbirder180.hatenablog.com/entry/2020/05/04/182921
+
 ### Single-Spa
 ### Ara-Framework
 #### Hypernova
@@ -89,6 +103,7 @@
 ### Misk-Web
 ### Mashroom
 ### compoxure
+## Browser Support
 ## Other
 ### Skeleton UI
 ### Reactive Programming
