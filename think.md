@@ -41,10 +41,20 @@
 #### Edge Side Integration
 #### Client Side Integration
 ### Communication
+* Event
+* EventBus
+* Pub/Sub
+
 ### Shared Data
+* URL
+* Cookie
+* Local Storage/Session Storage
+
 ### Routing
 ### Cache
 ### Access History
+* History API
+
 ### Split Policy
 ### Repository Management
 #### Mono Repository
