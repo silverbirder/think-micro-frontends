@@ -1,6 +1,7 @@
 # Micro Frontends
 ## History
 [Micro frontends | Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar/techniques/micro-frontends)
+
 ## Proven Company
 * Airbnb
 * Allegro
@@ -32,8 +33,46 @@
 * Smapiot
 ## Overview
 ### Microservices
+
+* Pros
+  * 独立性(INDEPENDENT)
+    * マイクロサービスは、さまざまなテクノロジーと言語の使用を可能にします。
+  * 展開(DEPLOY)
+    * 1つのサービス単位でデプロイが可能となる。
+  * スケーラビリティ(SCALABILITY)
+    * TODO
+  * 堅牢(ROBUST)
+    * 疎結合なら、1つのサービスダウンも全体のサービスダウンとならない。
+  * 俊敏性(AGILITY)
+    * 開発速度が向上する
+* Cons
+  * Performance
+  * Data Consistency
+  * Trouble Shooting
+  * Duplication
+
 ### MicroFrontends
-## Pros/Cons
+下記にまとめている。
+[Micro Frontends を学んだすべて - LifeHack Engineering Blog](https://silverbirder180.hatenablog.com/entry/2020/05/04/182921)
+
+* Pros
+  * 独立性
+    * 任意のテクノロジーと任意のチームで開発可能
+    * 依存関係をへらす
+    * アプリケーションは独立して開発できます
+    * アプリケーションは独立してデプロイ
+  * 展開
+    * 特定の機能をエンドツーエンド(バック、フロント、デプロイ）で確実に実行できる
+  * スケーラビリティ
+    * よりスケーラブルな組織構造
+  * 堅牢
+    * TODO
+  * 俊敏性
+    * 特定のドメインについて最高の知識を持つチーム間で作業を分散すると、リリースプロセスが確実にスピードアップして簡素化される
+    * フロントエンドとリリースが小さいということは、リグレッションテストの表面がはるかに小さいことを意味します。リリースごとの変更は少なく、理論的にはテストに費やす時間を短縮できます。
+    * フロントエンドのアップグレード/変更にはコストが小さくなる
+* Cons
+
 ## Architecture Model
 ### Integration Pattern
 #### Build Integration
@@ -79,10 +118,11 @@ Luigiは、LuigiCoreを中心としたMicro Frontendsに必要な機能を提供
 RoutingやAuthなどの機能や、Vue,React,Angularなどをサポートしているみたいだ。
 
 クライアントサイド統合。
+要調査。
 
 ### Podium
 下記で紹介している。
-https://silverbirder180.hatenablog.com/entry/2020/05/04/182921
+[Micro Frontends を学んだすべて - LifeHack Engineering Blog](https://silverbirder180.hatenablog.com/entry/2020/05/04/182921)
 
 サーバーサイド統合。
 
@@ -93,6 +133,7 @@ https://single-spa.js.org
 ※ https://single-spa.js.org/docs/getting-started-overview
 
 クライアントサイド統合。
+要調査。
 
 ### Ara-Framework
 #### Hypernova
