@@ -1,6 +1,6 @@
 # Micro Frontends
-## 歴史
-## 採用企業
+## History
+## Proven Company
 * Airbnb
 * Allegro
 * Amazon
@@ -29,30 +29,31 @@
 * Zalando
 * Entando
 * Smapiot
-
-## 概要
+## Overview
 ### Microservices
 ### MicroFrontends
 ## Pros/Cons
-## アーキテクチャモデル
-### 統合パターン
-#### ビルド統合
-#### サーバーサイド統合
-#### Edgeサイド統合
-#### クライアントサイド統合
-### 連携
-### データ共有
-### ルーティング
-### キャッシュ
-### アクセス履歴(History)
-### 分割方針
-### レポジトリ管理
-### 他アーキテクチャ融合
+## Architecture Model
+### Integration Pattern
+#### Build Integration
+#### Server Side Integration
+#### Edge Side Integration
+#### Client Side Integration
+### Communication
+### Shared Data
+### Routing
+### Cache
+### Access History
+### Split Policy
+### Repository Management
+#### Mono Repository
+#### Multi Repository
+### Fusion Of Other Architectures
 #### Modular Monolith
 #### Enterprise Architecture (Clean Architecture)
-#### Jamstack
+#### Jam Stack
 #### App Shell
-## 技術スタック
+## Technology stack
 ### Bit.dev
 ### Luigi
 ### Podium
@@ -77,7 +78,7 @@
 ### Misk-Web
 ### Mashroom
 ### compoxure
-## その他
+## Other
 ### Skeleton UI
 ### Reactive Programming
 ### JWT (token)
