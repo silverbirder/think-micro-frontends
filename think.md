@@ -118,8 +118,15 @@
 
 * 水平分割
   * 画面内にある要素で分割
+  * ビジネス上の機能
 * 垂直分割
   * 画面毎に分割
+
+### Document-Application
+
+![document-application](https://miro.medium.com/max/1224/1*NJMQCgyMShhjYx6dE_pbRw.png)
+
+マイクロフロントエンドは、かなりのオーバーラップがあるバンドの中央部分の大部分に最も適しています。バンドの両極端に該当するプロジェクトにマイクロフロントエンドアーキテクチャを実装しようとすると、生産性に反することが証明されます。
 
 ### Repository Management
 #### Mono Repository
