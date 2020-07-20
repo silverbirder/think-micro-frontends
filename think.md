@@ -116,12 +116,46 @@
 ### Split Policy
 ### Repository Management
 #### Mono Repository
+* Pros
+  * コードベース全体に簡単にアクセスできるようにする場合に最適に機能する。(検出可能性は高い)
+* Cons
+  * 時間の経過とともに、モノリポジトリは、特に大規模なチームで作業しているときに、動作が遅くなる傾向があり、バージョン管理下のコミットとファイルの数が増加する。
+
 #### Multi Repository
+* Pros
+  * マルチリポジトリは、非常に大規模なプロジェクトとそれに取り組む非常に大規模なチームがある場合に最適。
+  * 独自のマイクロアプリに厳密に取り組むチームがある場合に最適に機能する。
+* Cons
+  * マルチリポジトリ環境では、各マイクロアプリを個別にビルドする必要がある。
+
 ### Fusion Of Other Architectures
 #### Modular Monolith
 #### Enterprise Architecture (Clean Architecture)
+レイヤリングとDependency Inversion Principle (DIP)によるArchitecture
+
+* [Building an Enterprise Application with Vue](https://medium.com/javascript-in-plain-english/building-vue-enterprise-application-part-0-overture-6d41bea14236)
+  * [soloschenko-grigoriy/vue-vuex-ts](https://github.com/soloschenko-grigoriy/vue-vuex-ts/)
+
 #### Jam Stack
+JamStackは、Javascript, API、Markupの3つを使ったArchitecture。
+
+* Pros
+  * 高速なパフォーマンス
+    * ビルド済みのマークアップとアセットをCDNで提供
+  * 安全な
+    * サーバーやデータベースの脆弱性を心配するニーズ
+  * 安価な
+    * 静的ファイルのホスティングは安いか、無料
+  * 開発者エクスペリエンス
+    * フロントエンド開発者は、モノリシックアーキテクチャに縛られることなく、フロントエンドに集中できます。これは通常、より迅速で集中的な開発を意味します
+  * スケーラビリティ
+    * 製品が急にバイラルになり、多くのアクティブユーザーがいる場合、CDNはシームレスに補正します
+* Cons
+  * ページ数が多いと、buildに時間がかかる
+  * リアルタイム更新はできない。（動的なことができない）
+
 #### App Shell
+
 ## Technology stack
 ### Bit.dev
 ### Luigi
