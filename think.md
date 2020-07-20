@@ -300,8 +300,14 @@ https://github.com/airbnb/hypernova
 一度試した覚えがあるが、フラグメントにデータを渡す手段がHTTPベース(URLやHeader)のため、少し使い勝手が良くなかった。
 
 ### Open Components
+Registryにコンポーネントをpublishし、それを利用するときはimportしてbuildする。
+このような構成のメリット/デメリットが知りたい。
+
+要調査
 
 ### FrintJS
+
+
 ### Hinclude
 ### Piral
 ### Qiankun
