@@ -300,3 +300,6 @@ https://single-spa.js.org
 ### Mashroom
 ### compoxure
 ### namecheap/ilc
+
+## Book
+* [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
