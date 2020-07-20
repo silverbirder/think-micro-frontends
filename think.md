@@ -121,6 +121,10 @@
 選択基準
 * サーバーサイド統合と同じ
 
+技術
+* Varnish EDI
+* Edge Worker
+
 #### Client Side Integration
 選択基準
 * さまざまなチームのユーザーインターフェイスを1つの画面に統合する必要があるインタラクティブなアプリケーションを構築すること
@@ -154,6 +158,14 @@ TODO (Micro Frontends Frameworkに付属していることが多い)
 
 ### Cache
 TODO
+
+### Auth
+* JWT (token)
+
+### Performance
+* Skeleton UI
+* Async API
+* HTTP/2
 
 ### Proxy
 コンポジションプロキシ。テンプレートを組み合わせる。
@@ -235,6 +247,9 @@ JamStackは、Javascript, API、Markupの3つを使ったArchitecture。
 > JavaScript を多用したアーキテクチャのシングルページ アプリに対しては、App Shell が有力なアプローチとなります。このアプローチではアプリを実行させるために（Service Worker を使用して）積極的にセルをキャッシュします。次に、JavaScript を使用して各ページの動的コンテンツを読み込みます。App Shell はオフライン環境で、最初の HTML コンテンツを高速で画面に表示するのに役立ちます。
 ※ [App Shell モデル](https://developers.google.com/web/fundamentals/architecture/app-shell?hl=ja)
 
+## Browser Support
+TODO
+
 ## Technology stack
 ### Bit.dev
 ### Luigi
@@ -285,12 +300,3 @@ https://single-spa.js.org
 ### Mashroom
 ### compoxure
 ### namecheap/ilc
-## Browser Support
-## Other
-### Skeleton UI
-### Reactive Programming
-### JWT (token)
-### Composite Pattern
-### Varnish EDI
-### Async API
-### HTTP/2
