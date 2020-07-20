@@ -283,9 +283,24 @@ https://single-spa.js.org
 要調査。
 
 ### Ara-Framework
-#### Hypernova
+Hypernovaを使ったフレームワークで、データを渡せばレンダリング結果をレスポンスしてくれるもの。（レンダリング処理を任せる）
+
+> Client-Side and Universal Rendering
+> Server-side render Nova views and hydrate them on the browser to make them interactive, or just Client-Side render them on your SPA.
+
+サーバーサイドレンダリングしつつ、hydrateによるクライアントサイドレンダリングも可能。好印象。
+要調査。
+
+https://ara-framework.github.io/website/
+https://github.com/airbnb/hypernova
+
 ### Tailor
+
+サーバーサイド統合するもので、特徴的なのがFragmentsをstreamingしながら統合できる点。
+一度試した覚えがあるが、フラグメントにデータを渡す手段がHTTPベース(URLやHeader)のため、少し使い勝手が良くなかった。
+
 ### Open Components
+
 ### FrintJS
 ### Hinclude
 ### Piral
