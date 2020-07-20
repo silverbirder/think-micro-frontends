@@ -95,9 +95,48 @@
 ## Architecture Model
 ### Integration Pattern
 #### Build Integration
+選択基準
+* TODO
+
+技術
+* Bit.dev
+* Open Components
+* open-wc
+* Piral
+
 #### Server Side Integration
+選択基準
+* 良好な読み込みパフォーマンスと検索エンジンのランキングがプロジェクトの優先事項であること
+
+技術
+* Podium
+* Ara-Framework
+  * Hypernova
+* Tailor
+* Micromono
+* Mashroom (Clientも)
+* namecheap/ilc (Clientも)
+
 #### Edge Side Integration
+選択基準
+* サーバーサイド統合と同じ
+
 #### Client Side Integration
+選択基準
+* さまざまなチームのユーザーインターフェイスを1つの画面に統合する必要があるインタラクティブなアプリケーションを構築すること
+
+技術
+* Ajax
+* Iframe
+* Web Components
+* Luigi
+* Single-Spa
+* Qiankun
+* FrintJS
+* Hinclude
+* PuzzleJS
+* Icestark
+
 ### Communication
 * Event
 * EventBus
@@ -108,8 +147,18 @@
 * Cookie
 * Local Storage/Session Storage
 
+※ WebPack Module Federation
+
 ### Routing
+TODO (Micro Frontends Frameworkに付属していることが多い)
+
 ### Cache
+TODO
+
+### Proxy
+コンポジションプロキシ。テンプレートを組み合わせる。
+[tes/compoxure](https://github.com/tes/compoxure)
+
 ### Access History
 * History API
 
@@ -134,6 +183,8 @@
   * コードベース全体に簡単にアクセスできるようにする場合に最適に機能する。(検出可能性は高い)
 * Cons
   * 時間の経過とともに、モノリポジトリは、特に大規模なチームで作業しているときに、動作が遅くなる傾向があり、バージョン管理下のコミットとファイルの数が増加する。
+
+※ https://nx.dev
 
 #### Multi Repository
 * Pros
@@ -226,14 +277,11 @@ https://single-spa.js.org
 ### Qiankun
 ### PuzzleJS
 ### Micromono
-### Siteless
 ### WebPack Module Federation
 ### nx.dev
 ### Webpack Manifest
 ### Open-wc scoped-elements
-### CellularJS
 ### Icestark
-### Misk-Web
 ### Mashroom
 ### compoxure
 ### namecheap/ilc
