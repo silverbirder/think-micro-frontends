@@ -114,6 +114,13 @@
 * History API
 
 ### Split Policy
+フロントエンドを分割する方針について
+
+* 水平分割
+  * 画面内にある要素で分割
+* 垂直分割
+  * 画面毎に分割
+
 ### Repository Management
 #### Mono Repository
 * Pros
@@ -130,6 +137,16 @@
 
 ### Fusion Of Other Architectures
 #### Modular Monolith
+[Deconstructing the Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
+
+モジュール式のモノリスは、すべてのコードが単一のアプリケーションを強化するシステムであり、異なるドメイン間に厳密に強制された境界があります。
+
+* コード編成
+* 依存関係の分離
+* 境界の適用
+
+[kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
 #### Enterprise Architecture (Clean Architecture)
 レイヤリングとDependency Inversion Principle (DIP)によるArchitecture
 
