@@ -350,6 +350,12 @@ monorepoを拡張するツールだそうだ。モノレポで誰かがコミッ
 ### Open-wc scoped-elements
 ### Icestark
 ### Mashroom
+Mashroomは、サーバーサイド統合やクライアント統合をサポートするプラットフォーム。
+また、セキュリティ、通信、i18n、ストレージなども一式サポート。
+既存のExpressをWebアプリケーションから拡張できるみたい？
+
+https://github.com/nonblocking/mashroom
+
 ### compoxure
 ### namecheap/ilc
 
