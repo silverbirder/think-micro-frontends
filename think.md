@@ -116,6 +116,7 @@
 * Micromono
 * Mashroom (Clientも)
 * namecheap/ilc (Clientも)
+* PuzzleJS
 
 #### Edge Side Integration
 選択基準
@@ -137,7 +138,6 @@
 * Single-Spa
 * FrintJS
 * Hinclude
-* PuzzleJS
 
 ### Communication
 * Event
@@ -323,8 +323,25 @@ FrintJSは、MicroFrontends向けというよりもモジューラアーキテ�
 要調査
 
 ### Hinclude
+
+
 ### Piral
+
+> Piralは、次世代ポータルアプリケーションのフレームワークです。マイクロフロントエンドアーキテクチャに準拠したウェブアプリを基本的に短時間で構築できます。Piralでは、標準のツールを使用して、可能な限り効率的にすることができます。
+
+https://piral.io
+
+MicroFrontendsに必要なツールをセットにしたjavascriptフレームワーク。
+要調査
+
 ### PuzzleJS
+
+スケーラブルで高速なWebサイト用のマイクロフロントエンドフレームワーク
+https://github.com/puzzle-js/puzzle-js
+
+サーバーサイド統合で、コンパイル時にHTMLをjavascript関数にコンパイルするそうだ。
+要調査。
+
 ### Micromono
 
 モノリスとマイクロサービスを混在することができるフレームワーク。
