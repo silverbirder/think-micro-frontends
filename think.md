@@ -251,6 +251,10 @@ TODO
 ## Technology stack
 ### Bit.dev
 
+Open Componentsと似たような コンポーネントを登録して、使うときにimportする感じ？
+https://bit.dev/
+
+要調査。
 
 ### Luigi
 ![Luigi Overview Diagram](https://raw.githubusercontent.com/SAP/luigi/master/docs/assets/luigi-overview-diagram.jpg)
