@@ -250,6 +250,8 @@ TODO
 
 ## Technology stack
 ### Bit.dev
+
+
 ### Luigi
 ![Luigi Overview Diagram](https://raw.githubusercontent.com/SAP/luigi/master/docs/assets/luigi-overview-diagram.jpg)
 ※ https://docs.luigi-project.io
@@ -324,6 +326,14 @@ FrintJSは、MicroFrontends向けというよりもモジューラアーキテ�
 
 ### Hinclude
 
+> Declarative client-side transclusion, using Custom Elements V1. Perfect for Microfrontend architectures, in combination with server-side transclusion technologies like Edge-Side Includes.
+
+https://github.com/gustafnk/h-include
+
+Web Componentsで使用されているCustom Elementsを使ったWeb Components?に似た何か。
+Edge Side Includeのようなサーバーサイド統合おｔ組み合わすそう。
+
+要調査。
 
 ### Piral
 
