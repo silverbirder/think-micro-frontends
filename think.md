@@ -307,6 +307,22 @@ Registryにコンポーネントをpublishし、それを利用するときはim
 
 ### FrintJS
 
+https://frint.js.org/docs/
+> The modular JavaScript framework
+
+> Gives your applications a structure
+  Environment agnostic (runs in browser, server, and CLI)
+  Rendering library agnostic (integrates with React, Vue, and Preact)
+  Composable with multiple packages as needed
+  Each package is focused on doing one thing only and doing it well
+  Modular architecture with Apps
+  Embraces reactive programming with RxJS
+  Progressive and easy to adopt in existing applications
+
+FrintJSは、MicroFrontends向けというよりもモジューラアーキテクチャ向けなのかな。
+ただ、MicroFrontendsに必要なRouterやRendering、Storeなどが用意されている。
+
+要調査
 
 ### Hinclude
 ### Piral
