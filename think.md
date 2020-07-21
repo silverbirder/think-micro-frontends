@@ -383,7 +383,16 @@ Mashroomは、サーバーサイド統合やクライアント統合をサポー
 https://github.com/nonblocking/mashroom
 
 ### compoxure
+
+expressのmiddlewareであるproxy。
+キャッシュ戦略に使えそうだ。
+
+要調査
+
 ### namecheap/ilc
+
+HTMLのフラグメントをレイアウト構築するツール。
+https://github.com/namecheap/ilc
 
 ## Book
 * [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
