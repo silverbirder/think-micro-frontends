@@ -365,6 +365,11 @@ https://github.com/lsm/micromono
 どういうメリットがあるのかイマイチピンとこない。
 
 ### WebPack Module Federation
+
+webpackでバンドルしたものを、他でも使えるようにする。共有できるので、サイズ削減できる。
+
+https://github.com/module-federation/module-federation-examples
+
 ### nx.dev
 
 https://github.com/nrwl/nx
@@ -375,6 +380,11 @@ monorepoを拡張するツールだそうだ。モノレポで誰かがコミッ
 要調査
 
 ### Webpack Manifest
+
+webpackでバンドルした結果をmanifest.jsonへ出力できるプラグイン。
+
+https://github.com/danethurber/webpack-manifest-plugin
+
 ### Mashroom
 Mashroomは、サーバーサイド統合やクライアント統合をサポートするプラットフォーム。
 また、セキュリティ、通信、i18n、ストレージなども一式サポート。
