@@ -135,11 +135,9 @@
 * Web Components
 * Luigi
 * Single-Spa
-* Qiankun
 * FrintJS
 * Hinclude
 * PuzzleJS
-* Icestark
 
 ### Communication
 * Event
@@ -326,7 +324,6 @@ FrintJSは、MicroFrontends向けというよりもモジューラアーキテ�
 
 ### Hinclude
 ### Piral
-### Qiankun
 ### PuzzleJS
 ### Micromono
 
@@ -347,8 +344,6 @@ monorepoを拡張するツールだそうだ。モノレポで誰かがコミッ
 要調査
 
 ### Webpack Manifest
-### Open-wc scoped-elements
-### Icestark
 ### Mashroom
 Mashroomは、サーバーサイド統合やクライアント統合をサポートするプラットフォーム。
 また、セキュリティ、通信、i18n、ストレージなども一式サポート。
