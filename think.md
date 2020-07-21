@@ -94,9 +94,11 @@
 
 ## Architecture Model
 ### Integration Pattern
+[Micro Frontends – The Missing Piece Of The Puzzle In Feature Teams | BlueSoft](https://bluesoft.com/micro-frontends-the-missing-piece-of-the-puzzle-in-feature-teams/)
+
 #### Build Integration
 選択基準
-* TODO
+他の統合が非常に複雑に思われる場合に、小さなプロジェクト（3チーム以下）にのみ使用すること
 
 技術
 * Bit.dev
