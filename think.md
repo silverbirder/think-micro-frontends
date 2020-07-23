@@ -295,7 +295,6 @@ Hypernovaを使ったフレームワークで、データを渡せばレンダ�
 > Server-side render Nova views and hydrate them on the browser to make them interactive, or just Client-Side render them on your SPA.
 
 サーバーサイドレンダリングしつつ、hydrateによるクライアントサイドレンダリングも可能。好印象。
-要調査。
 
 https://ara-framework.github.io/website/
 https://github.com/airbnb/hypernova
