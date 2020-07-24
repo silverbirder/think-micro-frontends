@@ -1,0 +1,8 @@
+{
+  "Foo": {
+    "server": "http://localhost:3001/batch"
+  },
+  "Bar": {
+    "server": "http://localhost:3002/batch"
+  }
+}
