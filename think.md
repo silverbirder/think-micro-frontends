@@ -339,7 +339,7 @@ FrintJSは、MicroFrontends向けというよりもモジューラアーキテ�
 https://github.com/gustafnk/h-include
 
 Web Componentsで使用されているCustom Elementsを使ったWeb Components?に似た何か。
-Edge Side Includeのようなサーバーサイド統合おｔ組み合わすそう。
+Edge Side Includeのようなサーバーサイド統合と組み合わすそう。
 
 要調査。
 
