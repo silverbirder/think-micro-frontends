@@ -97,3 +97,12 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+```shell script
+$ export HYPERNOVA_BATCH=http://localhost:3000/batch
+$ export STATIC_FOLDER=./public
+$ nova-static
+or
+$ npm run build
+$ npm run serve
+```
