@@ -1,3 +1,3 @@
 ```shell script
-$ PORT=8000 npm run start
+$ PORT=8080 npm run start
 ```

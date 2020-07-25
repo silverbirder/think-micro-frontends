@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+
+  website:
+    build: ./
+    ports:
+      - 8000:5000
+    volumes:
+      - ./:/app
+    environment:
+      FLASK_DEBUG: 1
+      FLASK_APP: run.py

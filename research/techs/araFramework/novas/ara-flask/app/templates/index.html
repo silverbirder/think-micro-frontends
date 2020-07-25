@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block body %}
+<div class="container">
+  <h1 class="title">Hello Flask</h1>
+  {{ nova('Foo', {'title':'Foo'}) }}
+  {{ nova('Bar', {'title':'Bar'}) }}
+  <div>
+{% endblock %}
