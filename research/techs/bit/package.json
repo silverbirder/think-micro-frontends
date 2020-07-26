@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@bit/mui-org.material-ui.button": "^4.9.10",
+    "@bit/silver-birder.sample.footer": "^1.0.0",
+    "@bit/silver-birder.sample.header": "^1.1.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -33,7 +35,9 @@
     ]
   },
   "bit": {
-    "env": {},
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.20"
+    },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
   }

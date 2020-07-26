@@ -67,8 +67,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+init
 ```shell script
 $ bit init
 $ npm config set @bit:registry https://node.bit.dev
-$ npm i @bit/mui-org.material-ui.button
+$ bit import bit.envs/compilers/react --compiler
+```
+
+export
+```shell script
+$ bit add src/components/Footer.js footer
+$ bit build
+$ bit tag footer 1.0.0
+$ bit export silver-birder.sample footer
+$ npm i @bit/silver-birder.sample.footer
 ```
