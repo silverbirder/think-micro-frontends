@@ -1,0 +1,22 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "micromono": {
+    "name": "io",
+    "publicURL": "/public/io"
+  },
+  "jspm": {
+    "main": "io/main.js",
+    "directories": {
+      "baseURL": "public"
+    },
+    "dependencies": {
+      "socket.io-client": "npm:socket.io-client@1.4.8"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@5.8.34",
+      "babel-runtime": "npm:babel-runtime@5.8.34",
+      "core-js": "npm:core-js@1.2.6"
+    }
+  }
+}

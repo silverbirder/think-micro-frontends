@@ -1,0 +1,29 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MicroMono",
+  "license": "MIT",
+  "micromono": {
+    "name": "home",
+    "publicURL": "/public/home"
+  },
+  "jspm": {
+    "main": "home/main.js",
+    "directories": {
+      "baseURL": "public"
+    },
+    "dependencies": {
+      "lodash.assign": "npm:lodash.assign@4.0.0"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@5.8.34",
+      "babel-runtime": "npm:babel-runtime@5.8.34",
+      "core-js": "npm:core-js@1.2.6"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+div
+  h1#sub-title MicroMono Channel Example
+  h4 (open this page in multiple tabs/browsers to see how it works)
+  h3 Message from server:
+  div#message
+
+  if asset && asset.bundleJs
+    script(type='text/javascript', src="#{asset.bundleJs}")
+
+  if asset && asset.main
+    script(type='text/javascript').
+      System.import('#{asset.main}');

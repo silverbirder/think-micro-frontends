@@ -1,0 +1,41 @@
+{
+  "name": "balancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jspm": "jspm install"
+  },
+  "author": "",
+  "license": "MIT",
+  "micromono": {
+    "publicURL": "/public",
+    "commonBundles": {
+      "common30": [
+        "engine.io-client",
+        "socketmq",
+        "lodash.assign",
+        "socket.io-client"
+      ]
+    }
+  },
+  "jspm": {
+    "main": "main.js",
+    "directories": {
+      "baseURL": "public"
+    },
+    "dependencies": {
+      "engine.io-client": "npm:engine.io-client@1.6.8",
+      "lodash.assign": "npm:lodash.assign@4.0.0",
+      "socket.io-client": "npm:socket.io-client@1.4.5",
+      "socketmq": "npm:socketmq@0.7.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@5.8.34",
+      "babel-runtime": "npm:babel-runtime@5.8.34",
+      "core-js": "npm:core-js@1.2.6",
+      "css": "github:systemjs/plugin-css@0.1.12"
+    }
+  }
+}
