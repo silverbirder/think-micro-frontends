@@ -62,3 +62,6 @@ Finally, run our server to start serving requests in the thrid terminal:
     DEBUG=micromono* node server/server.js --service account,home
 
 Then open [http://127.0.0.1:3000](http://127.0.0.1:3000)
+
+# memo
+使いこなせなかった...

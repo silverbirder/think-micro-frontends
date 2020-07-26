@@ -9,6 +9,7 @@
     "express-session": "1.15.3",
     "jade": "1.11.0",
     "jspm": "0.16.53",
+    "micromono": "^0.10.1",
     "nats": "0.7.20",
     "passport": "0.3.2",
     "passport-local": "1.0.0",
