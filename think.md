@@ -102,7 +102,6 @@
 
 技術
 * Bit.dev
-* Open Components
 * open-wc
 * Piral
 
@@ -119,6 +118,7 @@
 * Mashroom (Clientも)
 * namecheap/ilc (Clientも)
 * PuzzleJS
+* Open Components (Clientも)
 
 #### Edge Side Integration
 選択基準
@@ -308,8 +308,7 @@ https://github.com/airbnb/hypernova
 ### Open Components
 Registryにコンポーネントをpublishし、それを利用するときはimportしてbuildする。
 このような構成のメリット/デメリットが知りたい。
-
-要調査
+→ bit.dev はbuild時にintegrationするが、ocはclientやserver sideのintegrationをする。
 
 ### FrintJS
 
