@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": {
+      "scope": null,
+      "name": "header"
+    },
+    "isSymlink": true,
+    "hash": "594fd1615a341c77829e83ed988f137e1ba96231"
+  },
+  {
+    "id": {
+      "scope": "silver-birder.sample",
+      "name": "header"
+    },
+    "isSymlink": false,
+    "hash": "efc7ecd971e1198a18d86367ed0e0774482c8465"
+  }
+]
