@@ -335,10 +335,10 @@ FrintJSは、MicroFrontends向けというよりもモジューラアーキテ�
 
 https://github.com/gustafnk/h-include
 
-Web Componentsで使用されているCustom Elementsを使ったWeb Components?に似た何か。
-Edge Side Includeのようなサーバーサイド統合と組み合わすそう。
-
-要調査。
+Web Componentsで使用されているCustom Elementsを使ったHTMLフラグメントをロードする。
+動作としては、h-includeタグからAjax通信して、innerHTMLを追加している。
+ブラウザのHTML importsの機能が非推奨になったけど、これは、その代替ツールのよう。
+また、lazyロードの機能がある。（が、別にいらない）
 
 ### Piral
 
