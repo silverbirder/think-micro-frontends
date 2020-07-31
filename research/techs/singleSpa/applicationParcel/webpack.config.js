@@ -4,7 +4,7 @@ const singleSpaDefaults = require("webpack-config-single-spa-react-ts");
 module.exports = (webpackConfigEnv) => {
   const defaultConfig = singleSpaDefaults({
     orgName: "silverbirder",
-    projectName: "single-spa",
+    projectName: "silverbirder",
     webpackConfigEnv,
   });
 
