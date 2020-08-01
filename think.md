@@ -159,6 +159,9 @@ TODO (Micro Frontends Frameworkに付属していることが多い)
 ### Cache
 TODO
 
+### Tracing
+TODO
+
 ### Auth
 * JWT (token)
 * サインインまたはサインアップエクスペリエンスを含むMFEがJWTトークンを取得し、アプリシェルを介してローカルストレージに保存します。
