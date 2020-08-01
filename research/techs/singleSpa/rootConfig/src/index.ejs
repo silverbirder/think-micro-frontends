@@ -10,6 +10,7 @@
   <script src="https://cdn.jsdelivr.net/npm/systemjs@6.3.1/dist/system.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/systemjs@6.3.1/dist/extras/amd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/systemjs@6.3.1/dist/extras/named-exports.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/zone.js@0.10.3/dist/zone.min.js"></script>
   <script type="systemjs-importmap">
     {
       "imports": {
@@ -17,7 +18,7 @@
         "@silverbirder/root-config": "//localhost:9000/silverbirder-root-config.js",
         "react": "https://cdn.jsdelivr.net/npm/react@16.13.0/umd/react.production.min.js",
         "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
-        "@silverbirder/silverbirder": "http://localhost:8500/silverbirder-silverbirder.js"
+        "@silverbirder/react-sample": "http://localhost:8500/silverbirder-react-sample.js"
       }
     }
   </script>
@@ -25,7 +26,7 @@
     <single-spa-router>
       <main>
         <route default>
-          <application name="@silverbirder/silverbirder"></application>
+          <application name="@silverbirder/react-sample"></application>
         </route>
       </main>
     </single-spa-router>
