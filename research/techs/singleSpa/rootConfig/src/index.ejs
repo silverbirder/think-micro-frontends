@@ -44,7 +44,10 @@
     {
       "imports": {
         "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
-        "@silverbirder/root-config": "//localhost:9000/silverbirder-root-config.js"
+        "@silverbirder/root-config": "//localhost:9000/silverbirder-root-config.js",
+        "react": "https://cdn.jsdelivr.net/npm/react@16.13.0/umd/react.production.min.js",
+        "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
+        "@silverbirder/silverbirder": "http://localhost:8500/silverbirder-silverbirder.js"
       }
     }
   </script>
@@ -76,6 +79,7 @@
       <main>
         <route default>
           <application name="@single-spa/welcome"></application>
+          <application name="@silverbirder/silverbirder"></application>
         </route>
       </main>
     </single-spa-router>
