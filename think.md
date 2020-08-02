@@ -379,6 +379,9 @@ FrintJS は、MicroFrontends 向けというよりもモジューラアーキテ
 
 要調査
 
+memo
+CLI で frint をテンプレート構築ができた。
+
 ### Hinclude
 
 > Declarative client-side transclusion, using Custom Elements V1. Perfect for Microfrontend architectures, in combination with server-side transclusion technologies like Edge-Side Includes.
