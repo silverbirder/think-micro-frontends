@@ -380,9 +380,6 @@ FrintJS は、MicroFrontends 向けというよりもモジューラアーキテ
 それぞれが Module として React コンポーネントがある。Redux, Service, Components など
 独立できている。これは、ちゃんと使えば疎なアーキテクチャにできるのでは。良いかもしれない。
 
-memo
-CLI で frint をテンプレート構築ができた。
-
 ### Hinclude
 
 > Declarative client-side transclusion, using Custom Elements V1. Perfect for Microfrontend architectures, in combination with server-side transclusion technologies like Edge-Side Includes.
