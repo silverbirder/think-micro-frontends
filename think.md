@@ -377,7 +377,8 @@ https://frint.js.org/docs/
 FrintJS は、MicroFrontends 向けというよりもモジューラアーキテクチャ向けなのかな。
 ただ、MicroFrontends に必要な Router や Rendering、Store などが用意されている。
 
-要調査
+それぞれが Module として React コンポーネントがある。Redux, Service, Components など
+独立できている。これは、ちゃんと使えば疎なアーキテクチャにできるのでは。良いかもしれない。
 
 memo
 CLI で frint をテンプレート構築ができた。
