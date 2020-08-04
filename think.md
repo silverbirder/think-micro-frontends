@@ -429,8 +429,6 @@ https://github.com/nrwl/nx
 monorepo を拡張するツールだそうだ。モノレポで誰かがコミットしたものがどこに影響するのか
 インテリジェンスに分析してくれるみたい。angular と react、web components が対応している。
 
-要調査
-
 ### Webpack Manifest
 
 webpack でバンドルした結果を manifest.json へ出力できるプラグイン。
