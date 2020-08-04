@@ -457,6 +457,10 @@ express の middleware である proxy。
 HTML のフラグメントをレイアウト構築するツール。
 https://github.com/namecheap/ilc
 
+### Lerna
+
+https://github.com/lerna/lerna
+
 ## Book
 
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
