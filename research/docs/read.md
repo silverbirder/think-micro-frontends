@@ -105,6 +105,9 @@
 - https://medium.com/swlh/react-vue-svelte-on-one-page-with-micro-frontends-f740b3ee6979
 - https://medium.com/geolytix/serverless-enterprise-application-architecture-for-the-jamstack-generation-with-zeit-now-vercel-92509a3db87d
 - https://medium.com/better-programming/horizontal-vs-vertical-scaling-in-node-js-1b4f3ec8282
+- https://blog.bitsrc.io/using-es-modules-with-dynamic-imports-to-implement-micro-frontends-7c840a38890e
+- https://medium.com/swlh/building-a-multi-cra-using-lerna-and-monorepo-4628de405c6b
+- https://medium.com/@jh.rossa/micro-frontend-federation-today-and-tomorrow-4eda3ab69409
 
 # DevTo
 
