@@ -319,7 +319,6 @@ Luigi は、LuigiCore を中心とした Micro Frontends に必要な機能を�
 Routing や Auth などの機能や、Vue,React,Angular などをサポートしているみたいだ。
 
 クライアントサイド統合。
-要調査。
 
 ### Podium
 
@@ -453,8 +452,6 @@ https://github.com/nonblocking/mashroom
 
 express の middleware である proxy。
 キャッシュ戦略に使えそうだ。
-
-要調査
 
 ### namecheap/ilc
 

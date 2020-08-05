@@ -108,6 +108,10 @@
 - https://blog.bitsrc.io/using-es-modules-with-dynamic-imports-to-implement-micro-frontends-7c840a38890e
 - https://medium.com/swlh/building-a-multi-cra-using-lerna-and-monorepo-4628de405c6b
 - https://medium.com/@jh.rossa/micro-frontend-federation-today-and-tomorrow-4eda3ab69409
+- https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382
+- https://medium.com/swlh/implementing-micro-frontends-using-react-8d23b7e0a687
+- https://medium.com/javascript-in-plain-english/javascript-monorepo-with-lerna-5729d6242302
+- https://levelup.gitconnected.com/a-micro-frontend-solution-for-react-1914b19663b
 
 # DevTo
 
