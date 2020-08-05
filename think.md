@@ -412,7 +412,7 @@ Pilets: 機能モジュール
 https://github.com/puzzle-js/puzzle-js
 
 サーバーサイド統合で、コンパイル時に HTML を javascript 関数にコンパイルするそうだ。
-要調査。
+=> Storefront から Fragment1 → Gateway → API の構成となる。
 
 ### Micromono
 
