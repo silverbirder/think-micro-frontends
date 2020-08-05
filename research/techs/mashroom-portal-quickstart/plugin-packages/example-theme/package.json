@@ -1,0 +1,42 @@
+{
+    "name": "example-theme",
+    "description": "Example Portal Theme",
+    "license": "MIT",
+    "version": "1.0.0",
+    "dependencies": {
+        "express-handlebars": "^4.0.4",
+        "handlebars": "^4.7.6"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.10.1",
+        "@fortawesome/fontawesome-free": "^5.13.0",
+        "bootstrap": "^4.5.0",
+        "copyfiles": "^2.3.0",
+        "node-sass": "^4.14.1",
+        "node-sass-tilde-importer": "^1.0.2",
+        "nodemon": "^2.0.4"
+    },
+    "scripts": {
+        "lint": "eslint src",
+        "dev": "nodemon --watch src -e js,scss --exec \"npm run build && node dist/standalone-dev.js\"",
+        "build:backend": "babel src/backend -d dist",
+        "build:frontend": "node-sass --importer=node_modules/node-sass-tilde-importer --output-style compressed src/frontend/sass/style.scss dist/public/style.css",
+        "build:copy-assets": "copyfiles -u 1 src/assets/* dist/public && copyfiles -u 3 node_modules/bootstrap/dist/**/* dist/public/bootstrap && copyfiles -u 3 node_modules/@fortawesome/fontawesome-free/**/* dist/public/fontawesome",
+        "build": "npm run build:backend && npm run build:frontend  && npm run build:copy-assets"
+    },
+    "mashroom": {
+        "devModeBuildScript": "build",
+        "plugins": [
+            {
+                "name": "Example Theme",
+                "type": "portal-theme",
+                "bootstrap": "./dist/mashroom-bootstrap.js",
+                "resourcesRoot": "./dist/public",
+                "views": "./views",
+                "defaultConfig": {
+                    "showEnvAndVersions": false
+                }
+            }
+        ]
+    }
+}

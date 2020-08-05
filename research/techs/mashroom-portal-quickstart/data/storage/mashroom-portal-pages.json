@@ -1,0 +1,109 @@
+{
+    "d": [
+        {
+            "pageId": "home",
+            "layout": "Mashroom Portal Default Layouts 2 Columns with 1 Column Header",
+            "portalApps": {
+                "app-area1": [
+                    {
+                        "pluginName": "Mashroom Welcome Portal App",
+                        "instanceId": "k1OmbAs7g"
+                    }
+                ],
+                "app-area2": [
+                    {
+                        "pluginName": "Mashroom Portal Demo Go WASM App",
+                        "instanceId": "7yGRPjm17"
+                    },
+                    {
+                        "pluginName": "Mashroom Portal Demo Vue App",
+                        "instanceId": "_ZYDR92PG"
+                    }
+                ],
+                "app-area3": [
+                    {
+                        "pluginName": "Mashroom Portal Demo Angular App",
+                        "instanceId": "arrKu4GNLm"
+                    },
+                    {
+                        "pluginName": "Mashroom Portal Demo React App",
+                        "instanceId": "5gC3hAwusU"
+                    }
+                ]
+            },
+            "_id": "5kMVHluoZo"
+        },
+        {
+            "pageId": "test1",
+            "layout": "Mashroom Portal Default Layouts 2 Columns",
+            "portalApps": {
+                "app-area1": [
+                    {
+                        "pluginName": "Mashroom Portal Demo React App",
+                        "instanceId": "XtS594Hf-G"
+                    }
+                ],
+                "app-area2": [
+                    {
+                        "pluginName": "Mashroom Portal Demo React App",
+                        "instanceId": "juaRpbUZfq"
+                    }
+                ]
+            },
+            "_id": "durMAUYUZd"
+        },
+        {
+            "pageId": "test2",
+            "layout": "Mashroom Portal Default Layouts 1 Column",
+            "_id": "4DZqpx3vUL"
+        },
+        {
+            "pageId": "subpage1",
+            "layout": "Mashroom Portal Default Layouts 2 Columns",
+            "portalApps": {
+                "app-area1": [
+                    {
+                        "pluginName": "Mashroom Portal Demo Load Dynamically App",
+                        "instanceId": "a0XYC_Ga8-"
+                    }
+                ],
+                "app-area2": []
+            },
+            "_id": "2t94Ru2V05"
+        },
+        {
+            "pageId": "subpage2",
+            "layout": "Mashroom Portal Default Layouts 1 Column",
+            "portalApps": {
+                "app-area1": [
+                    {
+                        "pluginName": "Mashroom Portal Tabify App",
+                        "instanceId": "qrJgWz64R7"
+                    },
+                    {
+                        "pluginName": "Mashroom Portal Demo React App",
+                        "instanceId": "HNtyJfr6l7"
+                    },
+                    {
+                        "pluginName": "Mashroom Portal Demo Rest Proxy App",
+                        "instanceId": "130_ITewP6"
+                    }
+                ]
+            },
+            "_id": "Vo0gtdjVx8"
+        },
+        {
+            "pageId": "sandbox",
+            "layout": "Mashroom Portal Default Layouts 1 Column",
+            "portalApps": {
+                "app-area1": [
+                    {
+                        "pluginName": "Mashroom Sandbox App",
+                        "instanceId": "ac9Qo6V1pX"
+                    }
+                ]
+            },
+            "_id": "gDCKzZ3FI7"
+        }
+    ]
+}

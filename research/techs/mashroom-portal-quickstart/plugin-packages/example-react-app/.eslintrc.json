@@ -1,0 +1,19 @@
+{
+    "parser": "babel-eslint",
+    "plugins": ["react", "flowtype"],
+    "extends": ["eslint:recommended", "plugin:react/recommended"],
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true
+    },
+    "settings": {
+        "react": {
+            "version": "16.7"
+        }
+    },
+    "rules": {
+        "no-console": "off",
+        "no-unused-vars": "off"
+    }
+}

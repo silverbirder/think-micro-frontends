@@ -1,0 +1,9 @@
+{
+    "/portal/**": {
+        "*": {
+            "allow": {
+                "roles": ["Authenticated"]
+            }
+        }
+    }
+}

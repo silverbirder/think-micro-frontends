@@ -1,0 +1,38 @@
+{
+    "d": [
+        {
+            "url": "http://demo-remote-app.mashroom-server.com",
+            "sessionOnly": false,
+            "lastError": null,
+            "retries": 0,
+            "registrationTimestamp": 1596632054747,
+            "portalApps": [
+                {
+                    "name": "Mashroom Demo Remote Portal App",
+                    "description": "Mashroom Demo Remote Portal App",
+                    "tags": [],
+                    "version": "1.0.1",
+                    "homepage": "https://www.mashroom-server.com",
+                    "license": "MIT",
+                    "category": "Demo",
+                    "lastReloadTs": 1596632054747,
+                    "globalLaunchFunction": "startupDemoRemotePortalApp",
+                    "resourcesRootUri": "http://demo-remote-app.mashroom-server.com",
+                    "sharedResources": null,
+                    "resources": {
+                        "js": ["index.js"]
+                    },
+                    "restProxies": {
+                        "bff": {
+                            "targetUri": "http://demo-remote-app.mashroom-server.com/api",
+                            "sendUserHeader": true,
+                            "sendPermissionsHeader": true
+                        }
+                    },
+                    "defaultAppConfig": {}
+                }
+            ],
+            "_id": "UbIEB_gZMs"
+        }
+    ]
+}

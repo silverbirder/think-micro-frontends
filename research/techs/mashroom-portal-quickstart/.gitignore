@@ -1,0 +1,13 @@
+
+*.iml
+.idea/
+data/sessions
+log/
+**/node_modules
+dist/
+tmp/
+
+
+
+
+

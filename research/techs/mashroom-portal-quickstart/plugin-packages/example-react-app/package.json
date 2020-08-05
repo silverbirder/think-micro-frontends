@@ -1,0 +1,78 @@
+{
+    "name": "example-react-app",
+    "description": "Example react app that can be used in the Mashroom Portal",
+    "license": "MIT",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@babel/cli": "^7.10.1",
+        "eslint": "^7.2.0",
+        "jest": "^26.0.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "webpack": "^4.43.0",
+        "babel-loader": "^8.1.0",
+        "eslint-loader": "^4.0.2",
+        "css-loader": "^3.6.0",
+        "file-loader": "^6.0.0",
+        "sass-loader": "^8.0.2",
+        "node-sass": "^4.14.1",
+        "style-loader": "^1.2.1",
+        "webpack-cli": "^3.3.11",
+        "webpack-dev-server": "^3.11.0",
+        "selenium-webdriver": "^4.0.0-alpha.7",
+        "chromedriver": "^83.0.0"
+    },
+    "scripts": {
+        "lint": "eslint src",
+        "flow": "flow check",
+        "dev": "webpack-dev-server --hot --mode development",
+        "build": "webpack --mode production --display-error-details",
+        "test": "jest --testPathPattern=test/ --passWithNoTests",
+        "test-e2e": "jest --testPathPattern=test-e2e/"
+    },
+    "jest": {
+        "verbose": true,
+        "roots": [
+            "<rootDir>/test",
+            "<rootDir>/test-e2e"
+        ],
+        "testRegex": "test\\.js$"
+    },
+    "mashroom": {
+        "devModeBuildScript": "build",
+        "plugins": [
+            {
+                "name": "Example React App",
+                "title": {
+                    "en": "Example React App",
+                    "de": "Beispiel React App"
+                },
+                "category": "Examples",
+                "type": "portal-app",
+                "bootstrap": "startExampleReactApp",
+                "resources": {
+                    "js": [
+                        "bundle.js"
+                    ],
+                    "css": []
+                },
+                "defaultConfig": {
+                    "resourcesRoot": "./dist",
+                    "restProxies": {},
+                    "rolePermissions": {
+                        "edit": [
+                            "RoleMyAppEdit",
+                            "Administrator"
+                        ],
+                        "doEverything": [
+                            "Administrator"
+                        ]
+                    },
+                    "appConfig": {
+                        "name": "World"
+                    }
+                }
+            }
+        ]
+    }
+}
