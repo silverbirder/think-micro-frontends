@@ -89,7 +89,6 @@
 - ✅ https://medium.com/codingtown/micro-frontends-mystery-8b51b6e2f7f9
 - ✅ https://medium.com/rangle-io/micro-frontends-and-the-rise-of-federated-applications-265171bcb346
 - ✅ https://medium.com/@felipegaiacharly/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
-- 👨‍💻 https://medium.com/bauer-kirch/a-domain-driven-vue-js-architecture-77771c20f0da
 - https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
 - https://medium.com/ergonode/create-your-own-vue-micro-frontend-architecture-with-vuems-library-f054233b97cb
 - https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
