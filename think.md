@@ -403,6 +403,9 @@ https://piral.io
 MicroFrontends に必要なツールをセットにした javascript フレームワーク。
 piral で構築した SPA を dist した gz を pilet が install する。
 
+Piral インスタンス: アプリケーションシェル
+Pilets: 機能モジュール
+
 ### PuzzleJS
 
 スケーラブルで高速な Web サイト用のマイクロフロントエンドフレームワーク
