@@ -1,0 +1,15 @@
+{
+  "cdn":{
+    "url":"http://local-service:7002/cdn"
+  },
+  "parameters": {
+    "servers": {
+      "layout": "http://local-layout:7003",
+      "example-service": "http://local-service:7002",
+      "example-app": "http://local-app:7001"
+    }
+  },
+  "cache": {
+    "engine": "memorycache"
+  }
+}

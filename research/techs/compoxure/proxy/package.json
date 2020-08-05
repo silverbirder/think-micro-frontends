@@ -1,0 +1,25 @@
+{
+  "name": "compoxure-example-proxy",
+  "version": "0.0.1",
+  "description": "Example of compoxure proxy",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tes/compoxure-proxy.git"
+  },
+  "keywords": [
+    "composition",
+    "proxy"
+  ],
+  "author": "TES Global",
+  "license": "MIT",
+  "dependencies": {
+    "compoxure": "^3.1.1",
+    "conflab": "0.0.14",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "serve-static": "^1.13.1"
+  }
+}

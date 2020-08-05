@@ -1,0 +1,25 @@
+{
+  "server": {
+    "port": 7000
+  },
+  "backend": [
+    {
+      "fn": "selectGoogle",
+      "dontPassUrl": true,
+      "target":"https://www.google.com"
+    },
+    {
+      "pattern": ".*",
+      "dontPassUrl": false,
+      "target":"{{server:example-app}}"
+    }
+  ],
+  "statusCodeHandlers": {
+    "403":{
+      "fn": "handleUnauthorised",
+      "data": {
+        "url": "http://localhost:7000/login"
+      }
+    }
+  }
+}

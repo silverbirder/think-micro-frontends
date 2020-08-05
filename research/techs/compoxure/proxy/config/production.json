@@ -1,0 +1,14 @@
+{
+  "cdn":{
+    "url":"http://your.real.cdn"
+  },
+  "parameters": {
+    "servers": {
+      "example-service": "http://a-real-server.com"
+    }
+  },
+  "cache": {
+    "engine": "redis",
+    "url":"redis://localhost:6379?db=0"
+  }
+}

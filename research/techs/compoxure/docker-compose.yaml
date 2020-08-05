@@ -1,0 +1,27 @@
+version: '2'
+
+services:
+  local-app:
+    build: ./app/
+    command: node app
+    ports:
+     - '7001:7001'
+
+  local-service:
+    build: ./service/
+    command: node service
+    ports:
+     - '7002:7002'
+
+  local-layout:
+    build: ./layout/
+    command: node layout
+    ports:
+     - '7003:7003'
+
+  compoxure-proxy:
+    build: ./proxy/
+    command: node proxy
+    ports:
+     - '7000:7000'
+

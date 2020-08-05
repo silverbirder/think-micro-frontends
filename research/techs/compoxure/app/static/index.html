@@ -1,0 +1,37 @@
+<!-- This application uses a layout, so only contains fragments that get added to slots -->
+<div cx-use-slot="header">
+    <h2>Additional content added to the header slot</h2>
+</div>
+
+<div cx-use-slot="body">
+
+    <div class="panel panel-primary">
+      <div class="panel-heading">Simple static include</div>
+      <div class="panel-body">
+        <div cx-url='{{server:example-service}}/include.html' cx-cache-key='shakespeare' cx-cache-ttl='10s' class='block'>
+        This will be replaced with some simple content that is cached if a cache is configured.
+        </div>
+      </div>
+      <div class="panel-footer">{{server:example-service}}/include.html</div>
+    </div>
+
+    <div class="panel panel-primary">
+      <div class="panel-heading">Dynamic content cached for 10s</div>
+      <div class="panel-body">
+        <div cx-url='{{server:example-service}}/dynamic' cx-cache-key='dynamic' cx-cache-ttl='10s' class='block'>
+            This will be replaced with some dynamic content that is cached if a cache is configured.
+        </div>
+      </div>
+      <div class="panel-footer">{{server:example-service}}/dynamic</div>
+    </div>
+
+     <div class="panel panel-danger">
+      <div class="panel-heading">Broken fragment</div>
+      <div class="panel-body">
+        <div cx-url='{{server:example-service}}/500' class='block'>
+            Broken
+        </div>
+      </div>
+      <div class="panel-footer">{{server:example-service}}/500</div>
+    </div>
+</div>
