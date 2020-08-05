@@ -1,0 +1,26 @@
+<script>
+  module.exports = {
+    onCreate() {
+      this.visitCount = 0;
+    },
+    onRequest(req) {
+      this.visitCount++;
+    },
+  };
+</script>
+
+<template>
+  <html>
+    <head>
+      <title>Product</title>
+    </head>
+    <body>
+      <div class="product-container">
+        <fragment from="Browsing" name="my-product"></fragment>
+      </div>
+      <div>
+        This page is viewed ${this.visitCount} times.
+      </div>
+    </body>
+  </html>
+</template>
