@@ -401,7 +401,7 @@ Web Components で使用されている Custom Elements を使った HTML フラ
 https://piral.io
 
 MicroFrontends に必要なツールをセットにした javascript フレームワーク。
-要調査
+piral で構築した SPA を dist した gz を pilet が install する。
 
 ### PuzzleJS
 
