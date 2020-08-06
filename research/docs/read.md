@@ -89,8 +89,8 @@
 - ✅ https://medium.com/codingtown/micro-frontends-mystery-8b51b6e2f7f9
 - ✅ https://medium.com/rangle-io/micro-frontends-and-the-rise-of-federated-applications-265171bcb346
 - ✅ https://medium.com/@felipegaiacharly/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
-- https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
-- https://medium.com/ergonode/create-your-own-vue-micro-frontend-architecture-with-vuems-library-f054233b97cb
+- ✅ https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
+- ✅ https://medium.com/ergonode/create-your-own-vue-micro-frontend-architecture-with-vuems-library-f054233b97cb
 - https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
 - https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3
 - https://medium.com/swlh/recipe-to-build-large-scale-web-apps-f38b20ab727f
@@ -111,6 +111,7 @@
 - https://medium.com/swlh/implementing-micro-frontends-using-react-8d23b7e0a687
 - https://medium.com/javascript-in-plain-english/javascript-monorepo-with-lerna-5729d6242302
 - https://levelup.gitconnected.com/a-micro-frontend-solution-for-react-1914b19663b
+- https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
 
 # DevTo
 
