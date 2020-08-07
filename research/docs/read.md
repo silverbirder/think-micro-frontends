@@ -91,7 +91,7 @@
 - ✅ https://medium.com/@felipegaiacharly/the-micro-frontends-journey-tech-agnostic-principle-b61414b19505
 - ✅ https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
 - ✅ https://medium.com/ergonode/create-your-own-vue-micro-frontend-architecture-with-vuems-library-f054233b97cb
-- https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
+- ✅ https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
 - https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3
 - https://medium.com/swlh/recipe-to-build-large-scale-web-apps-f38b20ab727f
 - https://itnext.io/progressive-web-apps-will-replace-your-native-app-4427f2df6604
