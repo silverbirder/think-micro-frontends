@@ -114,7 +114,6 @@
 
 - Bit.dev
 - open-wc
-- Piral
 
 #### Server Side Integration
 
@@ -129,7 +128,6 @@
   - Hypernova
 - Tailor
 - Micromono
-- Mashroom (Client も)
 - namecheap/ilc (Client も)
 - PuzzleJS
 - Open Components (Client も)
@@ -160,6 +158,8 @@
 - Single-Spa
 - FrintJS
 - Hinclude
+- Piral
+- Mashroom (Client も)
 
 ### Communication
 
@@ -261,9 +261,9 @@ TODO
 
 [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
-* Inertia.js
+- Inertia.js
 
-modular monolith用フレームワーク
+modular monolith 用フレームワーク
 
 要調査
 
