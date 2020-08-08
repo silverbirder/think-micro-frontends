@@ -74,3 +74,7 @@
 
 各企業の技術
 ※ https://levelup.gitconnected.com/brief-introduction-to-micro-frontends-architecture-ec928c587727
+
+* MailUp
+  * https://medium.com/mailup-group-tech-blog
+  * https://medium.com/mailup-group-tech-blog/micro-frontends-in-the-mailup-console-82a81e712cfe
