@@ -1,54 +1,58 @@
 # Service
 
-* https://bit.dev/
+- https://bit.dev/
 
 # OSS
 
-* https://github.com/SAP/luigi
+- https://github.com/SAP/luigi
 
 ## Luigi
+
 ```javascript
 const config = {
   settings: {
-    responsiveNavigation: 'semiCollapsible',
+    responsiveNavigation: "semiCollapsible",
     header: {
       logo: "/assets/logo.svg",
-      title: "Trip"
-    }
+      title: "Trip",
+    },
   },
   routing: {
     // uses hash based navigation if set to true
     useHashRouting: true,
-    nodeParamPrefix: "~"
+    nodeParamPrefix: "~",
   },
   // navigation structure and settings
   navigation: {
-    nodes: [{
-      pathSegment: 'trip',
-      hideFromNav: true,
-      anonymousAccess: true,
-      children: [{
-          pathSegment: 'weather',
-          label: 'Weather',
-          icon: 'weather-proofing',
-          loadingIndicator: {
-            enabled: false
+    nodes: [
+      {
+        pathSegment: "trip",
+        hideFromNav: true,
+        anonymousAccess: true,
+        children: [
+          {
+            pathSegment: "weather",
+            label: "Weather",
+            icon: "weather-proofing",
+            loadingIndicator: {
+              enabled: false,
+            },
+            viewUrl: "http://localhost:4200",
+            anonymousAccess: true,
           },
-          viewUrl: 'http://localhost:4200',
-          anonymousAccess: true
-        },
-        {
-          pathSegment: 'todo',
-          label: 'To-Do',
-          icon: 'list',
-          loadingIndicator: {
-            enabled: false
+          {
+            pathSegment: "todo",
+            label: "To-Do",
+            icon: "list",
+            loadingIndicator: {
+              enabled: false,
+            },
+            viewUrl: "https://trip-todo.web.app",
           },
-          viewUrl: 'https://trip-todo.web.app',
-        }
-      ]
-    }]
-  }
+        ],
+      },
+    ],
+  },
 };
 window.Luigi.setConfig(config);
 ```
@@ -58,7 +62,7 @@ window.Luigi.setConfig(config);
 
 ## Podium
 
-個人的意見だが、データをポッドレットにわたす方法がURLベースしか(HTTPか)なく、ちょっと柔軟性にかける。
+個人的意見だが、データをポッドレットにわたす方法が URL ベースしか(HTTP か)なく、ちょっと柔軟性にかける。
 
 ※ https://levelup.gitconnected.com/podium-easy-server-side-micro-frontends-385f3a4cd346
 
@@ -81,12 +85,15 @@ https://github.com/zalando/tailor
 ※ https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/
 
 # Open Components
+
 https://opencomponents.github.io/
 
 # FrintJS
+
 https://frint.js.org/
 
 # h include
+
 http://mnot.github.io/hinclude/
 
 # piral
@@ -113,7 +120,7 @@ https://www.npmjs.com/package/siteless
 
 https://github.com/krasimir/EventBus
 
-# スケルトンUI
+# スケルトン UI
 
 # WebPack module federation
 
@@ -121,9 +128,11 @@ https://github.com/krasimir/EventBus
 ※ https://github.com/module-federation/module-federation-examples
 
 # nx.dev
+
 https://nx.dev/angular
 
 # Reactive Programming
+
 書いてみただけ。
 
 # Webpack manifest
@@ -132,10 +141,10 @@ https://medium.embengineering.com/micro-front-ends-webpack-manifest-b05fc63a0d53
 
 # JWT (token)
 
-* local storage, session storage.
-* cookie
-* url
-※ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
+- local storage, session storage.
+- cookie
+- url
+  ※ https://medium.com/@mikkanthrope/sso-with-jwt-and-react-micro-frontends-811f0fcc4121
 
 # Composite Pattern
 
@@ -175,3 +184,10 @@ https://github.com/tes/compoxure
 https://medium.com/@clifcunn/nodeconf-eu-29dd3ed500ec
 
 # HTTP/2
+
+# script tag
+
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Modules
+type="module"
+type="importmap"
+type="systemjs-importmap"
