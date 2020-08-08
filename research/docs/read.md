@@ -94,22 +94,20 @@
 - ✅ https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
 - ✅ https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3
 - ✅ https://medium.com/mailup-group-tech-blog/micro-frontends-in-the-mailup-console-82a81e712cfe
-- https://towardsdatascience.com/looking-beyond-the-hype-is-modular-monolithic-software-architecture-really-dead-e386191610f8
-- https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800
-- https://medium.com/javascript-in-plain-english/exploring-nestjs-nests-module-system-88c6d7ad0970
-- https://medium.com/swlh/developing-and-deploying-micro-frontends-with-single-spa-c8b49f2a1b1d
+- ✅ https://towardsdatascience.com/looking-beyond-the-hype-is-modular-monolithic-software-architecture-really-dead-e386191610f8
+- ✅ https://medium.com/swlh/developing-and-deploying-micro-frontends-with-single-spa-c8b49f2a1b1d
 - https://levelup.gitconnected.com/easy-svelte-micro-frontends-with-podium-34aa949bed02
 - https://medium.com/swlh/react-vue-svelte-on-one-page-with-micro-frontends-f740b3ee6979
 - https://medium.com/geolytix/serverless-enterprise-application-architecture-for-the-jamstack-generation-with-zeit-now-vercel-92509a3db87d
 - https://medium.com/better-programming/horizontal-vs-vertical-scaling-in-node-js-1b4f3ec8282
 - https://blog.bitsrc.io/using-es-modules-with-dynamic-imports-to-implement-micro-frontends-7c840a38890e
 - https://medium.com/swlh/building-a-multi-cra-using-lerna-and-monorepo-4628de405c6b
-- https://medium.com/@jh.rossa/micro-frontend-federation-today-and-tomorrow-4eda3ab69409
-- https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382
-- https://medium.com/swlh/implementing-micro-frontends-using-react-8d23b7e0a687
-- https://medium.com/javascript-in-plain-english/javascript-monorepo-with-lerna-5729d6242302
-- https://levelup.gitconnected.com/a-micro-frontend-solution-for-react-1914b19663b
-- https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
+- ✅ https://medium.com/@jh.rossa/micro-frontend-federation-today-and-tomorrow-4eda3ab69409
+- ✅ https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382
+- ✅ https://medium.com/swlh/implementing-micro-frontends-using-react-8d23b7e0a687
+- ✅ https://medium.com/javascript-in-plain-english/javascript-monorepo-with-lerna-5729d6242302
+- ✅ https://levelup.gitconnected.com/a-micro-frontend-solution-for-react-1914b19663b
+- ✅ https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
 
 # DevTo
 

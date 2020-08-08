@@ -261,6 +261,12 @@ TODO
 
 [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
+* Inertia.js
+
+modular monolith用フレームワーク
+
+要調査
+
 #### Enterprise Architecture (Clean Architecture)
 
 レイヤリングと Dependency Inversion Principle (DIP)による Architecture
