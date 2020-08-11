@@ -134,7 +134,7 @@
 - ✅ https://github.com/ChristianUlbrich/awesome-microfrontends
 - ✅ https://github.com/rajasegar/awesome-micro-frontends
 - ✅ https://github.com/MPankajArun/awesome-micro-frontends
-- https://github.com/phodal/microfrontends
+- ✅ https://github.com/phodal/microfrontends
 
 # Other
 
