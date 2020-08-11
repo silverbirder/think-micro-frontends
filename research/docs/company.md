@@ -78,3 +78,6 @@
 * MailUp
   * https://medium.com/mailup-group-tech-blog
   * https://medium.com/mailup-group-tech-blog/micro-frontends-in-the-mailup-console-82a81e712cfe
+
+* Paypal
+  * https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
