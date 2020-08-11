@@ -126,8 +126,8 @@
 - ✅ https://dev.to/remast/my-software-architecture-resources-g38
 - ✅ https://dev.to/open-wc/open-wc-scoped-elements-3e47
 - ✅ https://medium.com/cdiscount-engineering/microservices-frontend-module-federation-an-handsome-promise-3b309944c215
-- https://medium.com/@infoxicator/what-is-holocron-224255625241
-- https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
+- ✅ https://medium.com/@infoxicator/what-is-holocron-224255625241
+- ✅ https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
 
 # Github
 
