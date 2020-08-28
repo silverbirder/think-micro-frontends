@@ -188,7 +188,7 @@ TODO
 
 ### Tracing
 
-TODO
+Open Tracing
 
 ### Auth
 
