@@ -200,7 +200,16 @@ Open Tracing
 
 ### Measurement
 
-Google Analytics ?
+- Google Analytics
+
+- Navigation Timing API
+- Resource Timing API
+- High Resolution Time API
+- User Timing API
+- Frame Timing API
+- [Performance](https://developer.mozilla.org/ja/docs/Web/API/Performance)
+- Server Timing API
+- Performance Observer
 
 ### Performance
 
