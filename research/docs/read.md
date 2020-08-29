@@ -105,6 +105,7 @@
 - ✅ https://medium.com/javascript-in-plain-english/javascript-monorepo-with-lerna-5729d6242302
 - ✅ https://levelup.gitconnected.com/a-micro-frontend-solution-for-react-1914b19663b
 - ✅ https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
+- https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc
 
 # DevTo
 
