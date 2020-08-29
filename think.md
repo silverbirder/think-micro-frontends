@@ -14,6 +14,7 @@
 - BuzzFeed
 - DAZN
 - Elsevier
+- Entando
 - Facebook
 - Fiverr
 - Hello Fresh
@@ -23,17 +24,17 @@
 - Open Table
 - OpenMRS
 - Otto
+- Paypal
 - SAP
 - Sixt
 - Skyscanner
+- Smapiot
 - Spotify
 - Starbucks
 - Thalia
 - Upwork
-- ZEISS
 - Zalando
-- Entando
-- Smapiot
+- ZEISS
 
 ## Overview
 
