@@ -205,7 +205,6 @@ Google Analytics ?
 ### Performance
 
 - Skeleton UI
-- Async API
 - HTTP/2
 
 ### Proxy
