@@ -144,6 +144,14 @@
 - Varnish EDI
 - Edge Worker
 
+CDN
+
+- Akamai
+- Cloudfront
+- Fastly
+- CloudFlare
+- Fly.io
+
 #### Client Side Integration
 
 選択基準
