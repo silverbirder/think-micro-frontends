@@ -164,3 +164,7 @@
 - ✅ https://www.infoq.com/articles/architecture-trends-2020/
 - ✅ https://www.infoq.com/news/2018/08/experiences-micro-frontends/
 - ✅ https://www.infoq.com/news/2020/01/strategies-micro-frontends/
+
+# Slide
+
+- https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit
