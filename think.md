@@ -14,6 +14,7 @@
 - BuzzFeed
 - DAZN
 - Elsevier
+- Entando
 - Facebook
 - Fiverr
 - Hello Fresh
@@ -23,17 +24,17 @@
 - Open Table
 - OpenMRS
 - Otto
+- Paypal
 - SAP
 - Sixt
 - Skyscanner
+- Smapiot
 - Spotify
 - Starbucks
 - Thalia
 - Upwork
-- ZEISS
 - Zalando
-- Entando
-- Smapiot
+- ZEISS
 
 ## Overview
 
@@ -143,6 +144,14 @@
 - Varnish EDI
 - Edge Worker
 
+CDN
+
+- Akamai
+- Cloudfront
+- Fastly
+- CloudFlare
+- Fly.io
+
 #### Client Side Integration
 
 選択基準
@@ -199,12 +208,20 @@ Open Tracing
 
 ### Measurement
 
-Google Analytics ?
+- Google Analytics
+
+- Navigation Timing API
+- Resource Timing API
+- High Resolution Time API
+- User Timing API
+- Frame Timing API
+- [Performance](https://developer.mozilla.org/ja/docs/Web/API/Performance)
+- Server Timing API
+- Performance Observer
 
 ### Performance
 
 - Skeleton UI
-- Async API
 - HTTP/2
 
 ### Proxy
