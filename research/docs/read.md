@@ -165,3 +165,8 @@
 - ✅ https://www.infoq.com/articles/architecture-trends-2020/
 - ✅ https://www.infoq.com/news/2018/08/experiences-micro-frontends/
 - ✅ https://www.infoq.com/news/2020/01/strategies-micro-frontends/
+
+#Slide
+
+- https://speakerdeck.com/kimh/k8stotraefikdetukurumaikurohurontoendo
+ 
