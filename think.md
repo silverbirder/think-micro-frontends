@@ -35,6 +35,8 @@
 - Upwork
 - Zalando
 - ZEISS
+- Paypal
+- CircleCI
 
 ## Overview
 
@@ -223,6 +225,7 @@ Open Tracing
 
 - Skeleton UI
 - HTTP/2
+- RxJS
 
 ### Proxy
 
