@@ -107,6 +107,7 @@
 - ✅ https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9
 - ✅ https://floqast.com/engineering-blog/post/implementing-a-micro-frontend-architecture-with-react/
 - ✅ https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc
+- ✅ https://medium.com/upwork-engineering/modernizing-upwork-with-micro-frontends-d5be5ec1d9a
 
 # DevTo
 
@@ -169,4 +170,3 @@
 #Slide
 
 - https://speakerdeck.com/kimh/k8stotraefikdetukurumaikurohurontoendo
- 

@@ -197,6 +197,10 @@ https://vaadin.com/router
 
 TODO
 
+### Logging
+
+TODO
+
 ### Tracing
 
 Open Tracing
