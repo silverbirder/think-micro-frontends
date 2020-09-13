@@ -108,6 +108,7 @@
 - ✅ https://floqast.com/engineering-blog/post/implementing-a-micro-frontend-architecture-with-react/
 - ✅ https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc
 - ✅ https://medium.com/upwork-engineering/modernizing-upwork-with-micro-frontends-d5be5ec1d9a
+- ✅ https://blog.bitsrc.io/implementing-micro-front-end-with-single-spa-and-react-eeb4364100f
 
 # DevTo
 
