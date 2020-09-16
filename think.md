@@ -225,6 +225,10 @@ Open Tracing
 - Server Timing API
 - Performance Observer
 
+### API
+
+- GraphQL
+
 ### Performance
 
 - Skeleton UI
