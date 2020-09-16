@@ -159,6 +159,7 @@
 - ✅ http://blog.wolksoftware.com/microlibraries-the-future-of-web-development
 - ✅ https://xebia.com/blog/the-monolithic-frontend-in-the-microservices-architecture/
 - ✅ https://x-team.com/blog/micro-frontend/
+- ✅ https://menelaos.dev/devweek-sf-2020/
 
 # InfoQ
 
