@@ -225,6 +225,20 @@ Open Tracing
 - Server Timing API
 - Performance Observer
 
+#### Real User Measurement (RUM)
+
+- SpeedCurve
+- Catchpoint
+- New Relic
+- Boomerang.js
+- Parfume.js
+- sitespeed.io
+
+#### Synthetic
+
+- Lighthouse
+- WebpageTest
+
 ### API
 
 - GraphQL
