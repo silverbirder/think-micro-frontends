@@ -110,6 +110,7 @@
 - ✅ https://medium.com/upwork-engineering/modernizing-upwork-with-micro-frontends-d5be5ec1d9a
 - ✅ https://blog.bitsrc.io/implementing-micro-front-end-with-single-spa-and-react-eeb4364100f
 - ✅ https://www.redhat.com/en/blog/5-benefits-using-micro-frontends-build-process-driven-applications
+- ✅ https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a
 
 # DevTo
 
