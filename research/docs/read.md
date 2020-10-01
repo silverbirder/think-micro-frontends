@@ -111,6 +111,7 @@
 - ✅ https://blog.bitsrc.io/implementing-micro-front-end-with-single-spa-and-react-eeb4364100f
 - ✅ https://www.redhat.com/en/blog/5-benefits-using-micro-frontends-build-process-driven-applications
 - ✅ https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a
+- ✅ https://www.esentri.com/composing-micro-frontends-server-side
 
 # DevTo
 
