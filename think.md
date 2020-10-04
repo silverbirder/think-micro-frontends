@@ -195,7 +195,7 @@ https://vaadin.com/router
 
 ### Cache
 
-TODO
+Service Worker (IndexedDB)
 
 ### Logging
 
