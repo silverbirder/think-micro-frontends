@@ -112,6 +112,7 @@
 - ✅ https://www.redhat.com/en/blog/5-benefits-using-micro-frontends-build-process-driven-applications
 - ✅ https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a
 - ✅ https://www.esentri.com/composing-micro-frontends-server-side
+- ✅ https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1
 
 # DevTo
 
