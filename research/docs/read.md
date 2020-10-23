@@ -113,6 +113,7 @@
 - ✅ https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a
 - ✅ https://www.esentri.com/composing-micro-frontends-server-side
 - ✅ https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1
+- ✅ https://medium.com/swlh/micro-frontends-chaos-to-harmony-b61454d8fb77
 
 # DevTo
 
