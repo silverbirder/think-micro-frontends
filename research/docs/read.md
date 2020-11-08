@@ -115,6 +115,7 @@
 - ✅ https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1
 - ✅ https://medium.com/swlh/micro-frontends-chaos-to-harmony-b61454d8fb77
 - ✅ https://blog.bitsrc.io/microfrontend-pattern-comparison-c50a9d2e4172
+- ✅ https://blog.bitsrc.io/microfrontends-survey-evaluation-d2af7eade306
 
 # DevTo
 
