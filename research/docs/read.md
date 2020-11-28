@@ -116,6 +116,9 @@
 - ✅ https://medium.com/swlh/micro-frontends-chaos-to-harmony-b61454d8fb77
 - ✅ https://blog.bitsrc.io/microfrontend-pattern-comparison-c50a9d2e4172
 - ✅ https://blog.bitsrc.io/microfrontends-survey-evaluation-d2af7eade306
+- ✅ https://medium.com/frontend-at-scale/an-introduction-to-micro-frontends-1a43edb4c38e
+- ✅ https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a
+- ✅ https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680
 
 # DevTo
 
