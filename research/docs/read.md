@@ -182,4 +182,9 @@
 
 #Slide
 
-- https://speakerdeck.com/kimh/k8stotraefikdetukurumaikurohurontoendo
+- ✅ https://speakerdeck.com/kimh/k8stotraefikdetukurumaikurohurontoendo
+
+# Book
+
+- ✅ https://learning.oreilly.com/library/view/building-micro-frontends/9781492082989/
+- ✅ https://learning.oreilly.com/library/view/micro-frontends-in/9781617296871/
