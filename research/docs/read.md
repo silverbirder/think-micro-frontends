@@ -119,6 +119,7 @@
 - ✅ https://medium.com/frontend-at-scale/an-introduction-to-micro-frontends-1a43edb4c38e
 - ✅ https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a
 - ✅ https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680
+- https://medium.com/@lucamezzalira/micro-frontends-resources-53b1ec7d512a
 
 # DevTo
 
