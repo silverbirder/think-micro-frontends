@@ -191,3 +191,12 @@ https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Modules
 type="module"
 type="importmap"
 type="systemjs-importmap"
+
+# Other
+
+- es module
+- import map
+- systemjs
+- module federation
+- import-map-overrides
+- import-map-deployer
