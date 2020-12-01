@@ -119,7 +119,9 @@
 - ✅ https://medium.com/frontend-at-scale/an-introduction-to-micro-frontends-1a43edb4c38e
 - ✅ https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a
 - ✅ https://medium.com/the-hamato-yogi-chronichels/lets-build-micro-frontends-with-nextjs-and-module-federation-b48c2c916680
-- https://medium.com/@lucamezzalira/micro-frontends-resources-53b1ec7d512a
+- ✅ https://medium.com/@lucamezzalira/micro-frontends-resources-53b1ec7d512a
+- ✅ https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-react-5ab172a0fec7
+- ✅ https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5
 
 # DevTo
 
@@ -172,6 +174,7 @@
 - ✅ https://xebia.com/blog/the-monolithic-frontend-in-the-microservices-architecture/
 - ✅ https://x-team.com/blog/micro-frontend/
 - ✅ https://menelaos.dev/devweek-sf-2020/
+- ✅ https://increment.com/frontend/micro-frontends-in-context/
 
 # InfoQ
 
@@ -184,6 +187,10 @@
 #Slide
 
 - ✅ https://speakerdeck.com/kimh/k8stotraefikdetukurumaikurohurontoendo
+- ✅ https://drive.google.com/file/d/1DRo-rpn_HS7U8HSYrUoOSfNKUbgI4aV2/view
+- ✅ https://docs.google.com/presentation/d/1ORZzkFyfz2S2PBfBrikPFGHRUWinT1jEWcmW3U9DbVY/edit
+- ✅ https://docs.google.com/presentation/d/19qtYscqubZIzIIx9JcT0wDdLc4xn5OYpxls5EvS03m4/edit
+  - ✅ https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/
 
 # Book
 
