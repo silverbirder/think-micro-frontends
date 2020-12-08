@@ -123,6 +123,8 @@
 - ✅ https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-react-5ab172a0fec7
 - ✅ https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5
 - ✅ https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b
+- ✅ https://infoxicator.medium.com/what-is-holocron-224255625241
+- ✅ https://infoxicator.medium.com/holocron-module-composition-293ec395d6fb
 
 # DevTo
 
