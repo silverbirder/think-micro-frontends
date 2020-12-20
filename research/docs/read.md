@@ -149,6 +149,7 @@
 - ✅ https://medium.com/@infoxicator/what-is-holocron-224255625241
 - ✅ https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
 - ✅ https://dev.to/kleeut/how-do-you-share-authentication-in-micro-frontends-5glc
+- ✅ https://medium.com/javascript-in-plain-english/creating-a-shared-state-library-for-micro-frontends-using-redux-7776bff18ef1
 
 # Github
 
