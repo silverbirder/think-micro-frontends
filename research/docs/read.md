@@ -195,6 +195,7 @@
 - ✅ https://docs.google.com/presentation/d/1ORZzkFyfz2S2PBfBrikPFGHRUWinT1jEWcmW3U9DbVY/edit
 - ✅ https://docs.google.com/presentation/d/19qtYscqubZIzIIx9JcT0wDdLc4xn5OYpxls5EvS03m4/edit
   - ✅ https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/
+- ✅ https://speakerdeck.com/naltatis/micro-frontends-e-commerce-total-makeover-teil-3-bevh
 
 # Book
 
