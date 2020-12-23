@@ -125,6 +125,8 @@
 - ✅ https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b
 - ✅ https://infoxicator.medium.com/what-is-holocron-224255625241
 - ✅ https://infoxicator.medium.com/holocron-module-composition-293ec395d6fb
+- ✅ https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-vue-js-da295ff2ce66
+- ✅ https://medium.com/bb-tutorials-and-thoughts/8-different-ways-to-implement-micro-frontends-with-vue-js-308663f0d51c
 
 # DevTo
 
