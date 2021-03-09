@@ -153,6 +153,8 @@
 - ✅ https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
 - ✅ https://dev.to/kleeut/how-do-you-share-authentication-in-micro-frontends-5glc
 - ✅ https://medium.com/javascript-in-plain-english/creating-a-shared-state-library-for-micro-frontends-using-redux-7776bff18ef1
+- ✅ https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee
+- ✅ https://medium.com/swlh/simplified-micro-frontends-in-vue-8c74b40eecf1
 
 # Github
 
