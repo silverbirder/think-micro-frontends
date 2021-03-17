@@ -203,7 +203,11 @@
 - ✅ https://docs.google.com/presentation/d/19qtYscqubZIzIIx9JcT0wDdLc4xn5OYpxls5EvS03m4/edit
   - ✅ https://blog.jonathanoliver.com/ddd-strategic-design-core-supporting-and-generic-subdomains/
 - ✅ https://speakerdeck.com/naltatis/micro-frontends-e-commerce-total-makeover-teil-3-bevh
-
+- ✅ https://speakerdeck.com/manfredsteyer/the-micro-frontend-revolution-module-federatio
+- ✅ https://speakerdeck.com/erikgrijzen/micro-frontend-architecture-building-an-extensible-ui-platform
+- ✅ https://speakerdeck.com/manfredsteyer/the-micro-frontend-revolution-module-federation-with-angular
+- ✅ https://speakerdeck.com/line_developers/micro-frontend-the-new-era-of-frontend-edge-technology
+- 
 # Book
 
 - ✅ https://learning.oreilly.com/library/view/building-micro-frontends/9781492082989/
