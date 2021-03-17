@@ -84,3 +84,5 @@
 
 * New Relic
   * https://speakerdeck.com/erikgrijzen/micro-frontend-architecture-building-an-extensible-ui-platform
+* LINE
+  * https://speakerdeck.com/line_developers/micro-frontend-the-new-era-of-frontend-edge-technology
