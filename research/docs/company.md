@@ -81,3 +81,6 @@
 
 * Paypal
   * https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48
+
+* New Relic
+  * https://speakerdeck.com/erikgrijzen/micro-frontend-architecture-building-an-extensible-ui-platform
