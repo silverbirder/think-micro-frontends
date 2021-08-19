@@ -157,6 +157,7 @@
 - ✅ https://medium.com/javascript-in-plain-english/creating-a-shared-state-library-for-micro-frontends-using-redux-7776bff18ef1
 - ✅ https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee
 - ✅ https://medium.com/swlh/simplified-micro-frontends-in-vue-8c74b40eecf1
+- ✅ https://medium.com/dazn-tech/how-dazn-manages-micro-frontend-infrastructure-f045d7c634c2
 
 # Github
 
