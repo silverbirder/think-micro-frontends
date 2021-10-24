@@ -158,6 +158,7 @@
 - ✅ https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee
 - ✅ https://medium.com/swlh/simplified-micro-frontends-in-vue-8c74b40eecf1
 - ✅ https://medium.com/dazn-tech/how-dazn-manages-micro-frontend-infrastructure-f045d7c634c2
+- ✅ https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea
 
 # Github
 
